@@ -1,0 +1,16 @@
+# Keep source files consistent across Windows and Unix checkouts.
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+requirements.txt text eol=lf
+*.bat text eol=crlf
+
+# SVP inputs and hash-verified analysis data must keep their exact bytes.
+*.svp -text
+*.csv -text
+*.json -text
+*.npy -text
+*.npz -text
+*.wav -text

@@ -1,0 +1,2364 @@
+{
+  "text": " Yeah, we'll be counting stars. I see this life like a swinging vine. Swing my the line in my face is flashing signs seek it out and ye shall find the old but i'm not that old young but i'm not that bold and i don't think the world is sold i'm just doing what we're told i feel something so right by doing the wrong thing and i feel something so wrong but doing the right thing i could lie could and i've been i've been praying hard he said no more counting ballers We'll be counting stars. i feel your love and i feel it burn down this river every turn hope is our four letter word make that money watch it burn oh but i'm not that old young but i'm not that bold and i I don't think the world is sold on just doing what we're told. And I feel something so wrong with doing the right thing. I could lie, I could lie, I could lie. Everything that drowns me makes me want to fly. Baby, I've been, I've been losing sleep. Dreaming about the things that we could be. Baby, I've been, I've been praying hard. Said no more counting dollars, we'll be counting stars. Baby, I've been, I've been losing sleep. Dreaming about the things that we could be. oh take that money watch it burn sink in the river the lessons i learned Everything that kills me makes me feel alone i've been i've been losing sleep dreaming about the things that we could be baby i've been i've been praying hard said no no more counting dollars. We'll be counting stars. Lately, I've been, I've been losing sleep. Dreaming about the things that we could be. But baby, I've been, I've been praying hard. Said no more counting dollars. We'll be, we'll be counting stars. I've been watching birds sing in the river with the best of dollars. Thank you. In the river, the lessons I've learned.",
+  "chunks": [
+    {
+      "text": " Yeah,",
+      "timestamp": [
+        19.2,
+        19.36
+      ]
+    },
+    {
+      "text": " we'll",
+      "timestamp": [
+        19.36,
+        19.66
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        37.24,
+        37.24
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        37.24,
+        37.24
+      ]
+    },
+    {
+      "text": " stars.",
+      "timestamp": [
+        37.24,
+        37.24
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        37.24,
+        37.66
+      ]
+    },
+    {
+      "text": " see",
+      "timestamp": [
+        37.66,
+        38.0
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        38.0,
+        38.28
+      ]
+    },
+    {
+      "text": " life",
+      "timestamp": [
+        38.28,
+        38.66
+      ]
+    },
+    {
+      "text": " like",
+      "timestamp": [
+        38.66,
+        39.22
+      ]
+    },
+    {
+      "text": " a",
+      "timestamp": [
+        39.22,
+        39.32
+      ]
+    },
+    {
+      "text": " swinging",
+      "timestamp": [
+        39.32,
+        39.62
+      ]
+    },
+    {
+      "text": " vine.",
+      "timestamp": [
+        39.62,
+        40.18
+      ]
+    },
+    {
+      "text": " Swing",
+      "timestamp": [
+        40.18,
+        40.56
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        40.56,
+        40.72
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        41.44,
+        41.72
+      ]
+    },
+    {
+      "text": " line",
+      "timestamp": [
+        41.72,
+        41.96
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        41.96,
+        42.48
+      ]
+    },
+    {
+      "text": " my",
+      "timestamp": [
+        42.48,
+        42.64
+      ]
+    },
+    {
+      "text": " face",
+      "timestamp": [
+        42.64,
+        43.1
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        43.1,
+        43.22
+      ]
+    },
+    {
+      "text": " flashing",
+      "timestamp": [
+        43.22,
+        43.62
+      ]
+    },
+    {
+      "text": " signs",
+      "timestamp": [
+        43.62,
+        44.02
+      ]
+    },
+    {
+      "text": " seek",
+      "timestamp": [
+        44.02,
+        44.66
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        44.66,
+        44.82
+      ]
+    },
+    {
+      "text": " out",
+      "timestamp": [
+        44.82,
+        45.02
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        45.02,
+        45.18
+      ]
+    },
+    {
+      "text": " ye",
+      "timestamp": [
+        45.18,
+        45.36
+      ]
+    },
+    {
+      "text": " shall",
+      "timestamp": [
+        45.36,
+        45.62
+      ]
+    },
+    {
+      "text": " find",
+      "timestamp": [
+        45.62,
+        46.06
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        46.06,
+        46.26
+      ]
+    },
+    {
+      "text": " old",
+      "timestamp": [
+        46.26,
+        46.56
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        46.56,
+        47.06
+      ]
+    },
+    {
+      "text": " i'm",
+      "timestamp": [
+        47.06,
+        47.26
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        47.26,
+        47.4
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        47.4,
+        47.68
+      ]
+    },
+    {
+      "text": " old",
+      "timestamp": [
+        47.68,
+        48.0
+      ]
+    },
+    {
+      "text": " young",
+      "timestamp": [
+        48.0,
+        48.42
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        48.42,
+        49.08
+      ]
+    },
+    {
+      "text": " i'm",
+      "timestamp": [
+        49.08,
+        49.24
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        49.24,
+        49.4
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        49.4,
+        49.64
+      ]
+    },
+    {
+      "text": " bold",
+      "timestamp": [
+        49.64,
+        49.96
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        49.96,
+        50.28
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        50.28,
+        50.38
+      ]
+    },
+    {
+      "text": " don't",
+      "timestamp": [
+        50.38,
+        50.66
+      ]
+    },
+    {
+      "text": " think",
+      "timestamp": [
+        50.66,
+        50.84
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        50.84,
+        51.02
+      ]
+    },
+    {
+      "text": " world",
+      "timestamp": [
+        51.02,
+        51.4
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        51.4,
+        51.6
+      ]
+    },
+    {
+      "text": " sold",
+      "timestamp": [
+        51.6,
+        51.9
+      ]
+    },
+    {
+      "text": " i'm",
+      "timestamp": [
+        51.9,
+        52.42
+      ]
+    },
+    {
+      "text": " just",
+      "timestamp": [
+        52.42,
+        52.58
+      ]
+    },
+    {
+      "text": " doing",
+      "timestamp": [
+        52.58,
+        52.88
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        52.88,
+        53.3
+      ]
+    },
+    {
+      "text": " we're",
+      "timestamp": [
+        53.3,
+        53.54
+      ]
+    },
+    {
+      "text": " told",
+      "timestamp": [
+        53.54,
+        53.88
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        53.88,
+        54.9
+      ]
+    },
+    {
+      "text": " feel",
+      "timestamp": [
+        54.9,
+        56.68
+      ]
+    },
+    {
+      "text": " something",
+      "timestamp": [
+        56.68,
+        57.42
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        57.42,
+        57.68
+      ]
+    },
+    {
+      "text": " right",
+      "timestamp": [
+        57.68,
+        58.32
+      ]
+    },
+    {
+      "text": " by",
+      "timestamp": [
+        58.28,
+        58.98
+      ]
+    },
+    {
+      "text": " doing",
+      "timestamp": [
+        58.98,
+        59.3
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        59.3,
+        59.62
+      ]
+    },
+    {
+      "text": " wrong",
+      "timestamp": [
+        59.62,
+        59.98
+      ]
+    },
+    {
+      "text": " thing",
+      "timestamp": [
+        59.98,
+        60.52
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        60.52,
+        62.4
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        62.4,
+        62.76
+      ]
+    },
+    {
+      "text": " feel",
+      "timestamp": [
+        62.76,
+        64.44
+      ]
+    },
+    {
+      "text": " something",
+      "timestamp": [
+        64.44,
+        65.24
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        65.24,
+        65.62
+      ]
+    },
+    {
+      "text": " wrong",
+      "timestamp": [
+        65.62,
+        66.22
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        66.22,
+        66.92
+      ]
+    },
+    {
+      "text": " doing",
+      "timestamp": [
+        66.92,
+        67.2
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        67.2,
+        67.48
+      ]
+    },
+    {
+      "text": " right",
+      "timestamp": [
+        67.48,
+        67.76
+      ]
+    },
+    {
+      "text": " thing",
+      "timestamp": [
+        67.76,
+        68.38
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        68.38,
+        70.26
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        70.26,
+        70.5
+      ]
+    },
+    {
+      "text": " lie",
+      "timestamp": [
+        70.5,
+        71.06
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        71.06,
+        71.5
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        71.5,
+        71.84
+      ]
+    },
+    {
+      "text": " i've",
+      "timestamp": [
+        85.98,
+        87.02
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        87.02,
+        87.32
+      ]
+    },
+    {
+      "text": " i've",
+      "timestamp": [
+        87.32,
+        87.82
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        87.82,
+        87.96
+      ]
+    },
+    {
+      "text": " praying",
+      "timestamp": [
+        87.96,
+        88.26
+      ]
+    },
+    {
+      "text": " hard",
+      "timestamp": [
+        88.26,
+        88.7
+      ]
+    },
+    {
+      "text": " he",
+      "timestamp": [
+        88.7,
+        89.44
+      ]
+    },
+    {
+      "text": " said",
+      "timestamp": [
+        89.44,
+        89.88
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        89.88,
+        90.12
+      ]
+    },
+    {
+      "text": " more",
+      "timestamp": [
+        90.12,
+        90.42
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        90.42,
+        90.84
+      ]
+    },
+    {
+      "text": " ballers",
+      "timestamp": [
+        90.84,
+        91.34
+      ]
+    },
+    {
+      "text": " We'll",
+      "timestamp": [
+        115.98,
+        115.98
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        115.98,
+        115.98
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        115.98,
+        115.98
+      ]
+    },
+    {
+      "text": " stars.",
+      "timestamp": [
+        115.98,
+        115.98
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        116.14,
+        116.14
+      ]
+    },
+    {
+      "text": " feel",
+      "timestamp": [
+        116.14,
+        116.66
+      ]
+    },
+    {
+      "text": " your",
+      "timestamp": [
+        116.66,
+        116.98
+      ]
+    },
+    {
+      "text": " love",
+      "timestamp": [
+        116.98,
+        117.38
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        117.38,
+        117.92
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        117.92,
+        118.0
+      ]
+    },
+    {
+      "text": " feel",
+      "timestamp": [
+        118.0,
+        118.2
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        118.2,
+        118.36
+      ]
+    },
+    {
+      "text": " burn",
+      "timestamp": [
+        118.36,
+        118.64
+      ]
+    },
+    {
+      "text": " down",
+      "timestamp": [
+        118.64,
+        119.16
+      ]
+    },
+    {
+      "text": " this",
+      "timestamp": [
+        119.16,
+        119.46
+      ]
+    },
+    {
+      "text": " river",
+      "timestamp": [
+        119.46,
+        119.74
+      ]
+    },
+    {
+      "text": " every",
+      "timestamp": [
+        119.74,
+        120.34
+      ]
+    },
+    {
+      "text": " turn",
+      "timestamp": [
+        120.34,
+        120.68
+      ]
+    },
+    {
+      "text": " hope",
+      "timestamp": [
+        120.68,
+        121.14
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        121.14,
+        121.44
+      ]
+    },
+    {
+      "text": " our",
+      "timestamp": [
+        121.44,
+        121.64
+      ]
+    },
+    {
+      "text": " four",
+      "timestamp": [
+        121.64,
+        121.88
+      ]
+    },
+    {
+      "text": " letter",
+      "timestamp": [
+        121.88,
+        122.24
+      ]
+    },
+    {
+      "text": " word",
+      "timestamp": [
+        122.24,
+        122.68
+      ]
+    },
+    {
+      "text": " make",
+      "timestamp": [
+        122.68,
+        123.14
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        123.14,
+        123.36
+      ]
+    },
+    {
+      "text": " money",
+      "timestamp": [
+        123.36,
+        123.64
+      ]
+    },
+    {
+      "text": " watch",
+      "timestamp": [
+        123.64,
+        124.12
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        124.12,
+        124.36
+      ]
+    },
+    {
+      "text": " burn",
+      "timestamp": [
+        124.36,
+        124.68
+      ]
+    },
+    {
+      "text": " oh",
+      "timestamp": [
+        124.68,
+        125.1
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        125.1,
+        125.76
+      ]
+    },
+    {
+      "text": " i'm",
+      "timestamp": [
+        125.76,
+        126.0
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        126.0,
+        126.14
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        126.14,
+        126.4
+      ]
+    },
+    {
+      "text": " old",
+      "timestamp": [
+        126.4,
+        126.76
+      ]
+    },
+    {
+      "text": " young",
+      "timestamp": [
+        126.76,
+        127.16
+      ]
+    },
+    {
+      "text": " but",
+      "timestamp": [
+        127.16,
+        127.82
+      ]
+    },
+    {
+      "text": " i'm",
+      "timestamp": [
+        127.82,
+        128.0
+      ]
+    },
+    {
+      "text": " not",
+      "timestamp": [
+        128.0,
+        128.12
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        128.12,
+        128.38
+      ]
+    },
+    {
+      "text": " bold",
+      "timestamp": [
+        128.38,
+        128.7
+      ]
+    },
+    {
+      "text": " and",
+      "timestamp": [
+        128.7,
+        129.02
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        129.02,
+        129.14
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        129.02,
+        129.1
+      ]
+    },
+    {
+      "text": " don't",
+      "timestamp": [
+        129.1,
+        129.36
+      ]
+    },
+    {
+      "text": " think",
+      "timestamp": [
+        129.36,
+        129.56
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        129.56,
+        129.74
+      ]
+    },
+    {
+      "text": " world",
+      "timestamp": [
+        129.74,
+        130.14
+      ]
+    },
+    {
+      "text": " is",
+      "timestamp": [
+        130.14,
+        130.32
+      ]
+    },
+    {
+      "text": " sold",
+      "timestamp": [
+        130.32,
+        130.62
+      ]
+    },
+    {
+      "text": " on",
+      "timestamp": [
+        130.62,
+        131.1
+      ]
+    },
+    {
+      "text": " just",
+      "timestamp": [
+        131.1,
+        131.36
+      ]
+    },
+    {
+      "text": " doing",
+      "timestamp": [
+        131.36,
+        131.56
+      ]
+    },
+    {
+      "text": " what",
+      "timestamp": [
+        131.56,
+        132.0
+      ]
+    },
+    {
+      "text": " we're",
+      "timestamp": [
+        132.0,
+        132.26
+      ]
+    },
+    {
+      "text": " told.",
+      "timestamp": [
+        132.26,
+        132.88
+      ]
+    },
+    {
+      "text": " And",
+      "timestamp": [
+        132.88,
+        133.18
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        133.18,
+        133.64
+      ]
+    },
+    {
+      "text": " feel",
+      "timestamp": [
+        133.64,
+        135.36
+      ]
+    },
+    {
+      "text": " something",
+      "timestamp": [
+        135.36,
+        136.06
+      ]
+    },
+    {
+      "text": " so",
+      "timestamp": [
+        136.06,
+        136.34
+      ]
+    },
+    {
+      "text": " wrong",
+      "timestamp": [
+        136.34,
+        137.12
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        137.12,
+        137.72
+      ]
+    },
+    {
+      "text": " doing",
+      "timestamp": [
+        137.72,
+        138.08
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        138.08,
+        138.3
+      ]
+    },
+    {
+      "text": " right",
+      "timestamp": [
+        138.3,
+        138.62
+      ]
+    },
+    {
+      "text": " thing.",
+      "timestamp": [
+        138.62,
+        140.12
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        140.12,
+        141.02
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        141.02,
+        141.34
+      ]
+    },
+    {
+      "text": " lie,",
+      "timestamp": [
+        141.34,
+        142.02
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        142.02,
+        142.24
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        142.24,
+        142.4
+      ]
+    },
+    {
+      "text": " lie,",
+      "timestamp": [
+        142.4,
+        142.98
+      ]
+    },
+    {
+      "text": " I",
+      "timestamp": [
+        142.98,
+        143.18
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        143.18,
+        143.34
+      ]
+    },
+    {
+      "text": " lie.",
+      "timestamp": [
+        143.34,
+        144.14
+      ]
+    },
+    {
+      "text": " Everything",
+      "timestamp": [
+        144.14,
+        145.34
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        145.34,
+        146.28
+      ]
+    },
+    {
+      "text": " drowns",
+      "timestamp": [
+        146.28,
+        147.16
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        147.16,
+        147.24
+      ]
+    },
+    {
+      "text": " makes",
+      "timestamp": [
+        147.24,
+        147.74
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        147.74,
+        147.96
+      ]
+    },
+    {
+      "text": " want",
+      "timestamp": [
+        147.96,
+        148.28
+      ]
+    },
+    {
+      "text": " to",
+      "timestamp": [
+        148.28,
+        148.46
+      ]
+    },
+    {
+      "text": " fly.",
+      "timestamp": [
+        148.46,
+        148.66
+      ]
+    },
+    {
+      "text": " Baby,",
+      "timestamp": [
+        148.66,
+        149.18
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        149.18,
+        149.98
+      ]
+    },
+    {
+      "text": " been,",
+      "timestamp": [
+        149.98,
+        150.42
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        150.42,
+        150.76
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        150.76,
+        150.92
+      ]
+    },
+    {
+      "text": " losing",
+      "timestamp": [
+        150.92,
+        151.24
+      ]
+    },
+    {
+      "text": " sleep.",
+      "timestamp": [
+        151.24,
+        151.86
+      ]
+    },
+    {
+      "text": " Dreaming",
+      "timestamp": [
+        151.86,
+        153.14
+      ]
+    },
+    {
+      "text": " about",
+      "timestamp": [
+        153.14,
+        153.5
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        153.5,
+        153.82
+      ]
+    },
+    {
+      "text": " things",
+      "timestamp": [
+        153.82,
+        154.22
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        154.22,
+        154.36
+      ]
+    },
+    {
+      "text": " we",
+      "timestamp": [
+        154.36,
+        154.6
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        154.6,
+        155.08
+      ]
+    },
+    {
+      "text": " be.",
+      "timestamp": [
+        155.08,
+        155.94
+      ]
+    },
+    {
+      "text": " Baby,",
+      "timestamp": [
+        155.94,
+        156.84
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        156.84,
+        157.82
+      ]
+    },
+    {
+      "text": " been,",
+      "timestamp": [
+        157.82,
+        158.2
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        158.2,
+        158.64
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        158.64,
+        158.78
+      ]
+    },
+    {
+      "text": " praying",
+      "timestamp": [
+        158.78,
+        159.1
+      ]
+    },
+    {
+      "text": " hard.",
+      "timestamp": [
+        159.1,
+        159.98
+      ]
+    },
+    {
+      "text": " Said",
+      "timestamp": [
+        159.98,
+        160.62
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        160.62,
+        160.92
+      ]
+    },
+    {
+      "text": " more",
+      "timestamp": [
+        160.92,
+        161.24
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        161.24,
+        161.64
+      ]
+    },
+    {
+      "text": " dollars,",
+      "timestamp": [
+        161.64,
+        162.22
+      ]
+    },
+    {
+      "text": " we'll",
+      "timestamp": [
+        162.22,
+        162.54
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        162.54,
+        162.64
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        162.64,
+        163.0
+      ]
+    },
+    {
+      "text": " stars.",
+      "timestamp": [
+        163.0,
+        163.96
+      ]
+    },
+    {
+      "text": " Baby,",
+      "timestamp": [
+        163.96,
+        164.7
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        164.7,
+        165.52
+      ]
+    },
+    {
+      "text": " been,",
+      "timestamp": [
+        165.52,
+        166.12
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        166.12,
+        166.5
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        166.5,
+        166.7
+      ]
+    },
+    {
+      "text": " losing",
+      "timestamp": [
+        166.7,
+        166.98
+      ]
+    },
+    {
+      "text": " sleep.",
+      "timestamp": [
+        166.98,
+        167.52
+      ]
+    },
+    {
+      "text": " Dreaming",
+      "timestamp": [
+        167.52,
+        168.86
+      ]
+    },
+    {
+      "text": " about",
+      "timestamp": [
+        168.86,
+        169.2
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        169.2,
+        169.52
+      ]
+    },
+    {
+      "text": " things",
+      "timestamp": [
+        169.52,
+        169.9
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        169.9,
+        169.98
+      ]
+    },
+    {
+      "text": " we",
+      "timestamp": [
+        169.98,
+        169.98
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        169.98,
+        169.98
+      ]
+    },
+    {
+      "text": " be.",
+      "timestamp": [
+        169.98,
+        169.98
+      ]
+    },
+    {
+      "text": " oh",
+      "timestamp": [
+        182.74,
+        182.74
+      ]
+    },
+    {
+      "text": " take",
+      "timestamp": [
+        182.74,
+        184.08
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        184.08,
+        184.38
+      ]
+    },
+    {
+      "text": " money",
+      "timestamp": [
+        184.38,
+        184.68
+      ]
+    },
+    {
+      "text": " watch",
+      "timestamp": [
+        184.68,
+        184.94
+      ]
+    },
+    {
+      "text": " it",
+      "timestamp": [
+        184.94,
+        185.26
+      ]
+    },
+    {
+      "text": " burn",
+      "timestamp": [
+        185.26,
+        185.5
+      ]
+    },
+    {
+      "text": " sink",
+      "timestamp": [
+        185.5,
+        185.9
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        185.9,
+        186.32
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        186.32,
+        186.46
+      ]
+    },
+    {
+      "text": " river",
+      "timestamp": [
+        186.46,
+        186.64
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        186.64,
+        186.78
+      ]
+    },
+    {
+      "text": " lessons",
+      "timestamp": [
+        186.78,
+        187.08
+      ]
+    },
+    {
+      "text": " i",
+      "timestamp": [
+        187.08,
+        187.3
+      ]
+    },
+    {
+      "text": " learned",
+      "timestamp": [
+        187.3,
+        187.64
+      ]
+    },
+    {
+      "text": " Everything",
+      "timestamp": [
+        200.72,
+        200.72
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        200.72,
+        201.42
+      ]
+    },
+    {
+      "text": " kills",
+      "timestamp": [
+        201.42,
+        202.08
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        202.08,
+        202.6
+      ]
+    },
+    {
+      "text": " makes",
+      "timestamp": [
+        202.6,
+        205.62
+      ]
+    },
+    {
+      "text": " me",
+      "timestamp": [
+        205.38,
+        205.86
+      ]
+    },
+    {
+      "text": " feel",
+      "timestamp": [
+        205.86,
+        206.22
+      ]
+    },
+    {
+      "text": " alone",
+      "timestamp": [
+        206.22,
+        206.54
+      ]
+    },
+    {
+      "text": " i've",
+      "timestamp": [
+        206.54,
+        208.02
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        208.02,
+        208.3
+      ]
+    },
+    {
+      "text": " i've",
+      "timestamp": [
+        208.3,
+        208.82
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        208.82,
+        208.96
+      ]
+    },
+    {
+      "text": " losing",
+      "timestamp": [
+        208.96,
+        209.24
+      ]
+    },
+    {
+      "text": " sleep",
+      "timestamp": [
+        209.24,
+        209.68
+      ]
+    },
+    {
+      "text": " dreaming",
+      "timestamp": [
+        209.68,
+        210.98
+      ]
+    },
+    {
+      "text": " about",
+      "timestamp": [
+        210.98,
+        211.54
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        211.54,
+        211.84
+      ]
+    },
+    {
+      "text": " things",
+      "timestamp": [
+        211.84,
+        212.2
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        212.2,
+        212.4
+      ]
+    },
+    {
+      "text": " we",
+      "timestamp": [
+        212.4,
+        212.58
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        212.58,
+        213.08
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        213.08,
+        213.64
+      ]
+    },
+    {
+      "text": " baby",
+      "timestamp": [
+        213.64,
+        214.98
+      ]
+    },
+    {
+      "text": " i've",
+      "timestamp": [
+        214.98,
+        215.86
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        215.86,
+        216.14
+      ]
+    },
+    {
+      "text": " i've",
+      "timestamp": [
+        216.14,
+        216.68
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        216.68,
+        216.8
+      ]
+    },
+    {
+      "text": " praying",
+      "timestamp": [
+        216.8,
+        217.18
+      ]
+    },
+    {
+      "text": " hard",
+      "timestamp": [
+        217.18,
+        217.58
+      ]
+    },
+    {
+      "text": " said",
+      "timestamp": [
+        217.58,
+        218.68
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        218.68,
+        218.94
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        218.72,
+        218.96
+      ]
+    },
+    {
+      "text": " more",
+      "timestamp": [
+        218.96,
+        219.24
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        219.24,
+        219.7
+      ]
+    },
+    {
+      "text": " dollars.",
+      "timestamp": [
+        219.7,
+        220.2
+      ]
+    },
+    {
+      "text": " We'll",
+      "timestamp": [
+        220.2,
+        220.56
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        220.56,
+        220.66
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        220.66,
+        221.04
+      ]
+    },
+    {
+      "text": " stars.",
+      "timestamp": [
+        221.04,
+        222.02
+      ]
+    },
+    {
+      "text": " Lately,",
+      "timestamp": [
+        222.02,
+        222.82
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        222.82,
+        223.62
+      ]
+    },
+    {
+      "text": " been,",
+      "timestamp": [
+        223.62,
+        224.12
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        224.12,
+        224.52
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        224.52,
+        224.76
+      ]
+    },
+    {
+      "text": " losing",
+      "timestamp": [
+        224.76,
+        225.02
+      ]
+    },
+    {
+      "text": " sleep.",
+      "timestamp": [
+        225.02,
+        225.84
+      ]
+    },
+    {
+      "text": " Dreaming",
+      "timestamp": [
+        225.84,
+        226.92
+      ]
+    },
+    {
+      "text": " about",
+      "timestamp": [
+        226.92,
+        227.24
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        227.24,
+        227.58
+      ]
+    },
+    {
+      "text": " things",
+      "timestamp": [
+        227.58,
+        227.94
+      ]
+    },
+    {
+      "text": " that",
+      "timestamp": [
+        227.94,
+        228.12
+      ]
+    },
+    {
+      "text": " we",
+      "timestamp": [
+        228.12,
+        228.32
+      ]
+    },
+    {
+      "text": " could",
+      "timestamp": [
+        228.32,
+        228.84
+      ]
+    },
+    {
+      "text": " be.",
+      "timestamp": [
+        228.84,
+        229.76
+      ]
+    },
+    {
+      "text": " But",
+      "timestamp": [
+        229.76,
+        230.12
+      ]
+    },
+    {
+      "text": " baby,",
+      "timestamp": [
+        230.12,
+        230.88
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        230.88,
+        231.48
+      ]
+    },
+    {
+      "text": " been,",
+      "timestamp": [
+        231.48,
+        231.96
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        231.96,
+        232.44
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        232.44,
+        232.58
+      ]
+    },
+    {
+      "text": " praying",
+      "timestamp": [
+        232.58,
+        232.88
+      ]
+    },
+    {
+      "text": " hard.",
+      "timestamp": [
+        232.88,
+        233.8
+      ]
+    },
+    {
+      "text": " Said",
+      "timestamp": [
+        233.8,
+        234.42
+      ]
+    },
+    {
+      "text": " no",
+      "timestamp": [
+        234.42,
+        234.72
+      ]
+    },
+    {
+      "text": " more",
+      "timestamp": [
+        234.72,
+        235.0
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        235.0,
+        235.44
+      ]
+    },
+    {
+      "text": " dollars.",
+      "timestamp": [
+        235.44,
+        235.92
+      ]
+    },
+    {
+      "text": " We'll",
+      "timestamp": [
+        235.92,
+        236.3
+      ]
+    },
+    {
+      "text": " be,",
+      "timestamp": [
+        236.3,
+        236.62
+      ]
+    },
+    {
+      "text": " we'll",
+      "timestamp": [
+        236.62,
+        237.28
+      ]
+    },
+    {
+      "text": " be",
+      "timestamp": [
+        237.28,
+        237.38
+      ]
+    },
+    {
+      "text": " counting",
+      "timestamp": [
+        237.38,
+        237.86
+      ]
+    },
+    {
+      "text": " stars.",
+      "timestamp": [
+        237.86,
+        238.18
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        238.18,
+        238.52
+      ]
+    },
+    {
+      "text": " been",
+      "timestamp": [
+        238.52,
+        238.64
+      ]
+    },
+    {
+      "text": " watching",
+      "timestamp": [
+        238.64,
+        239.18
+      ]
+    },
+    {
+      "text": " birds",
+      "timestamp": [
+        239.18,
+        239.62
+      ]
+    },
+    {
+      "text": " sing",
+      "timestamp": [
+        239.62,
+        240.12
+      ]
+    },
+    {
+      "text": " in",
+      "timestamp": [
+        240.12,
+        240.38
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        240.38,
+        240.5
+      ]
+    },
+    {
+      "text": " river",
+      "timestamp": [
+        240.5,
+        240.7
+      ]
+    },
+    {
+      "text": " with",
+      "timestamp": [
+        240.7,
+        240.86
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        240.86,
+        240.88
+      ]
+    },
+    {
+      "text": " best",
+      "timestamp": [
+        240.88,
+        241.1
+      ]
+    },
+    {
+      "text": " of",
+      "timestamp": [
+        241.1,
+        241.24
+      ]
+    },
+    {
+      "text": " dollars.",
+      "timestamp": [
+        241.24,
+        241.68
+      ]
+    },
+    {
+      "text": " Thank",
+      "timestamp": [
+        259.98,
+        259.98
+      ]
+    },
+    {
+      "text": " you.",
+      "timestamp": [
+        259.98,
+        259.98
+      ]
+    },
+    {
+      "text": " In",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    },
+    {
+      "text": " river,",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    },
+    {
+      "text": " the",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    },
+    {
+      "text": " lessons",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    },
+    {
+      "text": " I've",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    },
+    {
+      "text": " learned.",
+      "timestamp": [
+        262.46,
+        262.46
+      ]
+    }
+  ]
+}

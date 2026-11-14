@@ -1,0 +1,241 @@
+﻿txt_line,txt_column,txt_word,note_numbers,svp_lyrics,syllables,ctc_starts_s,ctc_vowel_candidates_s,ctc_end_s,ctc_p,mms_onsets_s,status,reason,unknown_start_s,unknown_end_s,word_index,model_id,alignment_unit,score_available,observed_word_start_s,observed_word_end_s
+1,1,It's,1,It's,its,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,40.72,40.96,0,Qwen/Qwen3-ForcedAligner-0.6B,word,False,40.72,40.96
+1,6,late,2,late,late,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,40.96,41.2,1,Qwen/Qwen3-ForcedAligner-0.6B,word,False,40.96,41.2
+1,11,and,4,and,and,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,41.2,41.76,2,Qwen/Qwen3-ForcedAligner-0.6B,word,False,41.2,41.76
+1,15,I'm,5,I'm,im,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,41.76,42.16,3,Qwen/Qwen3-ForcedAligner-0.6B,word,False,41.76,42.16
+1,19,awake,7 / 8,awake / +,aw / ake,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,42.24,43.28,4,Qwen/Qwen3-ForcedAligner-0.6B,word,False,42.24,43.28
+2,1,Staring,9 / 10,Staring / +,star / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,44.56,45.52,5,Qwen/Qwen3-ForcedAligner-0.6B,word,False,44.56,45.52
+2,9,at,11,at,at,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,45.52,46.0,6,Qwen/Qwen3-ForcedAligner-0.6B,word,False,45.52,46.0
+2,12,the,12,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,46.0,46.32,7,Qwen/Qwen3-ForcedAligner-0.6B,word,False,46.0,46.32
+2,16,wall,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,8,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+3,1,Open,14 / 15,Open / +,op / en,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,48.64,49.36,9,Qwen/Qwen3-ForcedAligner-0.6B,word,False,48.64,49.36
+3,6,up,16,up,up,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,49.36,49.76,10,Qwen/Qwen3-ForcedAligner-0.6B,word,False,49.36,49.76
+3,9,my,17,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,49.76,50.16,11,Qwen/Qwen3-ForcedAligner-0.6B,word,False,49.76,50.16
+3,12,window,18 / 19,window / +,win / dow,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,50.16,51.52,12,Qwen/Qwen3-ForcedAligner-0.6B,word,False,50.16,51.52
+4,1,Head,20,Head,head,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,52.48,52.8,13,Qwen/Qwen3-ForcedAligner-0.6B,word,False,52.48,52.8
+4,6,floats,21,floats,floats,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,52.8,53.44,14,Qwen/Qwen3-ForcedAligner-0.6B,word,False,52.8,53.44
+4,13,out,22,out,out,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,53.44,54.0,15,Qwen/Qwen3-ForcedAligner-0.6B,word,False,53.44,54.0
+4,17,the,23,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,54.16,54.64,16,Qwen/Qwen3-ForcedAligner-0.6B,word,False,54.16,54.64
+4,21,door,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,17,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+5,1,No,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,56.24,56.56,18,Qwen/Qwen3-ForcedAligner-0.6B,word,False,56.24,56.56
+5,4,one,24,one,one,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,56.56,57.04,19,Qwen/Qwen3-ForcedAligner-0.6B,word,False,56.56,57.04
+5,8,else,25,else,else,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,57.04,57.52,20,Qwen/Qwen3-ForcedAligner-0.6B,word,False,57.04,57.52
+5,13,around,26 / 27,around / +,ar / ound,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,57.6,58.8,21,Qwen/Qwen3-ForcedAligner-0.6B,word,False,57.6,58.8
+6,1,And,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,22,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+6,5,a,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,23,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+6,7,shimmer,28 / 29,shimmer / +,shim / mer,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,59.92,60.72,24,Qwen/Qwen3-ForcedAligner-0.6B,word,False,59.92,60.72
+6,15,takes,31,takes,takes,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,60.8,61.28,25,Qwen/Qwen3-ForcedAligner-0.6B,word,False,60.8,61.28
+6,21,my,32,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,61.28,61.68,26,Qwen/Qwen3-ForcedAligner-0.6B,word,False,61.28,61.68
+6,24,eye,33,eye,eye,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,61.84,62.4,27,Qwen/Qwen3-ForcedAligner-0.6B,word,False,61.84,62.4
+7,1,I,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,28,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+7,3,lift,35,lift,lift,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,64.64,65.12,29,Qwen/Qwen3-ForcedAligner-0.6B,word,False,64.64,65.12
+7,8,my,36,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,65.12,65.52,30,Qwen/Qwen3-ForcedAligner-0.6B,word,False,65.12,65.52
+7,11,head,37,head,head,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,65.52,66.48,31,Qwen/Qwen3-ForcedAligner-0.6B,word,False,65.52,66.48
+7,17,blinded,38 / 39,blinded / +,blin / ded,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,67.84,68.48,32,Qwen/Qwen3-ForcedAligner-0.6B,word,False,67.84,68.48
+7,25,by,40,by,by,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,68.56,69.12,33,Qwen/Qwen3-ForcedAligner-0.6B,word,False,68.56,69.12
+7,28,the,41,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,69.12,69.2,34,Qwen/Qwen3-ForcedAligner-0.6B,word,False,69.12,69.2
+7,32,sky,42,sky,sky,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,69.2,70.0,35,Qwen/Qwen3-ForcedAligner-0.6B,word,False,69.2,70.0
+8,1,Feel,43,Feel,feel,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,71.52,71.92,36,Qwen/Qwen3-ForcedAligner-0.6B,word,False,71.52,71.92
+8,6,my,44,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,71.92,72.8,37,Qwen/Qwen3-ForcedAligner-0.6B,word,False,71.92,72.8
+8,9,weight,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,38,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+8,16,in,47,in,in,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,72.88,73.2,39,Qwen/Qwen3-ForcedAligner-0.6B,word,False,72.88,73.2
+8,19,front,48,front,front,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,73.2,74.08,40,Qwen/Qwen3-ForcedAligner-0.6B,word,False,73.2,74.08
+9,1,Following,49 / 50 / 51,Following / + / +,fol / low / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,75.36,76.72,41,Qwen/Qwen3-ForcedAligner-0.6B,word,False,75.36,76.72
+9,11,the,52,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,76.72,76.96,42,Qwen/Qwen3-ForcedAligner-0.6B,word,False,76.72,76.96
+9,15,sound,53,sound,sound,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,77.04,78.0,43,Qwen/Qwen3-ForcedAligner-0.6B,word,False,77.04,78.0
+10,1,It,54,It,it,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,79.12,79.2,44,Qwen/Qwen3-ForcedAligner-0.6B,word,False,79.12,79.2
+10,4,moves,55,moves,moves,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,79.28,79.84,45,Qwen/Qwen3-ForcedAligner-0.6B,word,False,79.28,79.84
+10,10,away,56 / 57,away / +,aw / ay,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,79.84,80.08,46,Qwen/Qwen3-ForcedAligner-0.6B,word,False,79.84,80.08
+10,15,so,58,so,so,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,80.4,80.88,47,Qwen/Qwen3-ForcedAligner-0.6B,word,False,80.4,80.88
+10,18,fast,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,48,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+11,1,Fall,60,Fall,fall,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,83.04,83.68,49,Qwen/Qwen3-ForcedAligner-0.6B,word,False,83.04,83.68
+11,6,down,61,down,down,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,83.68,84.08,50,Qwen/Qwen3-ForcedAligner-0.6B,word,False,83.68,84.08
+11,11,to,62,to,to,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,84.08,84.64,51,Qwen/Qwen3-ForcedAligner-0.6B,word,False,84.08,84.64
+11,14,the,63,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,84.64,85.04,52,Qwen/Qwen3-ForcedAligner-0.6B,word,False,84.64,85.04
+11,18,ground,64,ground,ground,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,85.04,85.36,53,Qwen/Qwen3-ForcedAligner-0.6B,word,False,85.04,85.36
+12,1,I,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,54,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+12,3,know,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,55,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+12,8,there's,67,there's,theres,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,87.36,87.68,56,Qwen/Qwen3-ForcedAligner-0.6B,word,False,87.36,87.68
+12,16,more,68,more,more,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,87.68,88.08,57,Qwen/Qwen3-ForcedAligner-0.6B,word,False,87.68,88.08
+12,21,to,69,to,to,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,88.08,88.48,58,Qwen/Qwen3-ForcedAligner-0.6B,word,False,88.08,88.48
+12,24,come,70,come,come,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,88.64,89.44,59,Qwen/Qwen3-ForcedAligner-0.6B,word,False,88.64,89.44
+13,1,Jump,71,Jump,jump,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,90.8,91.44,60,Qwen/Qwen3-ForcedAligner-0.6B,word,False,90.8,91.44
+13,6,back,72,back,back,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,91.44,91.76,61,Qwen/Qwen3-ForcedAligner-0.6B,word,False,91.44,91.76
+13,11,to,73,to,to,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,91.76,92.08,62,Qwen/Qwen3-ForcedAligner-0.6B,word,False,91.76,92.08
+13,14,my,74,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,92.08,92.4,63,Qwen/Qwen3-ForcedAligner-0.6B,word,False,92.08,92.4
+13,17,feet,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,92.4,92.88,64,Qwen/Qwen3-ForcedAligner-0.6B,word,False,92.4,92.88
+14,1,And,75,And,and,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,92.88,93.12,65,Qwen/Qwen3-ForcedAligner-0.6B,word,False,92.88,93.12
+14,5,I,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,66,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+14,7,only,77 / 78,only / +,on / ly,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,94.72,95.28,67,Qwen/Qwen3-ForcedAligner-0.6B,word,False,94.72,95.28
+14,12,see,80,see,see,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,95.44,96.0,68,Qwen/Qwen3-ForcedAligner-0.6B,word,False,95.44,96.0
+14,16,ahead,81 / 82,ahead / +,ah / ead,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,96.0,96.72,69,Qwen/Qwen3-ForcedAligner-0.6B,word,False,96.0,96.72
+14,22,of,84,of,of,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,96.96,97.36,70,Qwen/Qwen3-ForcedAligner-0.6B,word,False,96.96,97.36
+14,25,me,85,me,me,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,97.36,97.68,71,Qwen/Qwen3-ForcedAligner-0.6B,word,False,97.36,97.68
+15,1,Chasing,86 / 87,Chasing / +,chas / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,98.48,99.52,72,Qwen/Qwen3-ForcedAligner-0.6B,word,False,98.48,99.52
+15,9,down,88,down,down,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,99.52,100.0,73,Qwen/Qwen3-ForcedAligner-0.6B,word,False,99.52,100.0
+15,14,the,89,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,100.0,100.08,74,Qwen/Qwen3-ForcedAligner-0.6B,word,False,100.0,100.08
+15,18,street,90,street,street,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,100.08,100.72,75,Qwen/Qwen3-ForcedAligner-0.6B,word,False,100.08,100.72
+16,2,Down,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,101.52,102.0,76,Qwen/Qwen3-ForcedAligner-0.6B,word,False,101.52,102.0
+16,7,the,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,77,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+16,11,street,91,street,street,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,102.16,102.2,78,Qwen/Qwen3-ForcedAligner-0.6B,word,False,102.16,102.2
+16,19,down,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,102.24,102.28,79,Qwen/Qwen3-ForcedAligner-0.6B,word,False,102.24,102.28
+16,24,the,92,the,the,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,102.32,102.4,80,Qwen/Qwen3-ForcedAligner-0.6B,word,False,102.32,102.4
+16,28,street,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,102.4,103.2,81,Qwen/Qwen3-ForcedAligner-0.6B,word,False,102.4,103.2
+17,2,Down,93,Down,down,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,103.68,103.84,82,Qwen/Qwen3-ForcedAligner-0.6B,word,False,103.68,103.84
+17,7,the,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,83,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+17,11,street,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,104.08,104.32,84,Qwen/Qwen3-ForcedAligner-0.6B,word,False,104.08,104.32
+17,19,down,94,down,down,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,104.56,104.8,85,Qwen/Qwen3-ForcedAligner-0.6B,word,False,104.56,104.8
+17,24,the,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,86,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+17,28,street,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,87,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+18,1,Gave,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,88,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+18,6,my,95,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,105.68,105.76,89,Qwen/Qwen3-ForcedAligner-0.6B,word,False,105.68,105.76
+18,9,love,96,love,love,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,105.76,105.92,90,Qwen/Qwen3-ForcedAligner-0.6B,word,False,105.76,105.92
+18,14,to,97,to,to,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,107.36,115.84,91,Qwen/Qwen3-ForcedAligner-0.6B,word,False,107.36,115.84
+18,17,a,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,92,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+18,19,shooting,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,116.546,117.253,93,Qwen/Qwen3-ForcedAligner-0.6B,word,False,116.546,117.253
+18,28,star,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,117.96,118.666,94,Qwen/Qwen3-ForcedAligner-0.6B,word,False,117.96,118.666
+19,1,But,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,119.373,120.08,95,Qwen/Qwen3-ForcedAligner-0.6B,word,False,119.373,120.08
+19,5,she,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,96,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+19,9,moves,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,121.44,121.84,97,Qwen/Qwen3-ForcedAligner-0.6B,word,False,121.44,121.84
+19,15,so,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,121.84,122.16,98,Qwen/Qwen3-ForcedAligner-0.6B,word,False,121.84,122.16
+19,18,fast,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,122.333,122.506,99,Qwen/Qwen3-ForcedAligner-0.6B,word,False,122.333,122.506
+19,23,that,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,122.68,122.853,100,Qwen/Qwen3-ForcedAligner-0.6B,word,False,122.68,122.853
+19,28,I,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.026,123.2,101,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.026,123.2
+19,30,can't,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.258,123.316,102,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.258,123.316
+19,36,keep,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.374,123.432,103,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.374,123.432
+19,41,up,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.49,123.549,104,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.49,123.549
+19,45,I'm,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.607,123.665,105,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.607,123.665
+19,49,chasing,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.723,123.781,106,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.723,123.781
+20,1,I'm,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.84,123.898,107,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.84,123.898
+20,5,in,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,123.956,124.014,108,Qwen/Qwen3-ForcedAligner-0.6B,word,False,123.956,124.014
+20,8,love,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,124.072,124.13,109,Qwen/Qwen3-ForcedAligner-0.6B,word,False,124.072,124.13
+20,13,with,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,124.189,124.247,110,Qwen/Qwen3-ForcedAligner-0.6B,word,False,124.189,124.247
+20,18,a,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,124.305,124.363,111,Qwen/Qwen3-ForcedAligner-0.6B,word,False,124.305,124.363
+20,20,shooting,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,124.421,124.48,112,Qwen/Qwen3-ForcedAligner-0.6B,word,False,124.421,124.48
+20,29,star,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,124.48,124.784,113,Qwen/Qwen3-ForcedAligner-0.6B,word,False,124.48,124.784
+20,34,but,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,125.088,125.392,114,Qwen/Qwen3-ForcedAligner-0.6B,word,False,125.088,125.392
+20,38,she,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,125.696,126.0,115,Qwen/Qwen3-ForcedAligner-0.6B,word,False,125.696,126.0
+20,42,moves,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,126.0,126.16,116,Qwen/Qwen3-ForcedAligner-0.6B,word,False,126.0,126.16
+20,48,so,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,126.16,126.56,117,Qwen/Qwen3-ForcedAligner-0.6B,word,False,126.16,126.56
+20,51,fast,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,118,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+21,1,When,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,119,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+21,6,she,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,128.146,128.213,120,Qwen/Qwen3-ForcedAligner-0.6B,word,False,128.146,128.213
+21,10,falls,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,128.28,128.346,121,Qwen/Qwen3-ForcedAligner-0.6B,word,False,128.28,128.346
+21,17,then,98,then,then,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,128.413,128.48,122,Qwen/Qwen3-ForcedAligner-0.6B,word,False,128.413,128.48
+21,22,I'll,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,128.48,128.96,123,Qwen/Qwen3-ForcedAligner-0.6B,word,False,128.48,128.96
+21,27,be,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,124,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+21,30,waiting,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,129.36,129.474,125,Qwen/Qwen3-ForcedAligner-0.6B,word,False,129.36,129.474
+22,1,Gave,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,129.588,129.702,126,Qwen/Qwen3-ForcedAligner-0.6B,word,False,129.588,129.702
+22,6,my,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,129.817,129.931,127,Qwen/Qwen3-ForcedAligner-0.6B,word,False,129.817,129.931
+22,9,love,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,130.045,130.16,128,Qwen/Qwen3-ForcedAligner-0.6B,word,False,130.045,130.16
+22,14,to,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,130.596,131.033,129,Qwen/Qwen3-ForcedAligner-0.6B,word,False,130.596,131.033
+22,17,a,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,131.47,131.906,130,Qwen/Qwen3-ForcedAligner-0.6B,word,False,131.47,131.906
+22,19,shooting,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,132.343,132.78,131,Qwen/Qwen3-ForcedAligner-0.6B,word,False,132.343,132.78
+22,28,star,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,133.216,133.653,132,Qwen/Qwen3-ForcedAligner-0.6B,word,False,133.216,133.653
+23,1,But,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,134.09,134.526,133,Qwen/Qwen3-ForcedAligner-0.6B,word,False,134.09,134.526
+23,5,she,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,134.963,135.4,134,Qwen/Qwen3-ForcedAligner-0.6B,word,False,134.963,135.4
+23,9,moves,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,135.836,136.273,135,Qwen/Qwen3-ForcedAligner-0.6B,word,False,135.836,136.273
+23,15,so,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,136.71,137.146,136,Qwen/Qwen3-ForcedAligner-0.6B,word,False,136.71,137.146
+23,18,fast,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,137.583,138.02,137,Qwen/Qwen3-ForcedAligner-0.6B,word,False,137.583,138.02
+23,23,that,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,138.456,138.893,138,Qwen/Qwen3-ForcedAligner-0.6B,word,False,138.456,138.893
+23,28,I,99,I,i,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,139.33,139.766,139,Qwen/Qwen3-ForcedAligner-0.6B,word,False,139.33,139.766
+23,30,can't,102,can't,cant,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,140.203,140.64,140,Qwen/Qwen3-ForcedAligner-0.6B,word,False,140.203,140.64
+23,36,keep,157,keep,keep,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,140.64,160.64,141,Qwen/Qwen3-ForcedAligner-0.6B,word,False,140.64,160.64
+23,41,up,159,up,up,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,160.866,161.093,142,Qwen/Qwen3-ForcedAligner-0.6B,word,False,160.866,161.093
+23,45,I'm,160,I'm,im,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,161.32,161.546,143,Qwen/Qwen3-ForcedAligner-0.6B,word,False,161.32,161.546
+23,49,chasing,161 / 162,chasing / +,chas / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,161.773,162.0,144,Qwen/Qwen3-ForcedAligner-0.6B,word,False,161.773,162.0
+24,1,I'm,163,I'm,im,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,162.181,162.362,145,Qwen/Qwen3-ForcedAligner-0.6B,word,False,162.181,162.362
+24,5,in,164,in,in,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,162.543,162.724,146,Qwen/Qwen3-ForcedAligner-0.6B,word,False,162.543,162.724
+24,8,love,165,love,love,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,162.905,163.086,147,Qwen/Qwen3-ForcedAligner-0.6B,word,False,162.905,163.086
+24,13,with,166,with,with,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,163.267,163.448,148,Qwen/Qwen3-ForcedAligner-0.6B,word,False,163.267,163.448
+24,18,a,167,a,a,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,163.629,163.81,149,Qwen/Qwen3-ForcedAligner-0.6B,word,False,163.629,163.81
+24,20,shooting,168 / 169,shooting / +,shoot / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,163.991,164.172,150,Qwen/Qwen3-ForcedAligner-0.6B,word,False,163.991,164.172
+24,29,star,170,star,star,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,164.353,164.534,151,Qwen/Qwen3-ForcedAligner-0.6B,word,False,164.353,164.534
+24,34,but,171,but,but,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,164.715,164.896,152,Qwen/Qwen3-ForcedAligner-0.6B,word,False,164.715,164.896
+24,38,she,172,she,she,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,165.077,165.258,153,Qwen/Qwen3-ForcedAligner-0.6B,word,False,165.077,165.258
+24,42,moves,173,moves,moves,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,165.44,166.0,154,Qwen/Qwen3-ForcedAligner-0.6B,word,False,165.44,166.0
+24,48,so,174,so,so,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,166.0,166.18,155,Qwen/Qwen3-ForcedAligner-0.6B,word,False,166.0,166.18
+24,51,fast,175,fast,fast,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,166.36,166.54,156,Qwen/Qwen3-ForcedAligner-0.6B,word,False,166.36,166.54
+25,1,When,176,When,when,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,166.72,166.9,157,Qwen/Qwen3-ForcedAligner-0.6B,word,False,166.72,166.9
+25,6,she,177,she,she,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,167.08,167.26,158,Qwen/Qwen3-ForcedAligner-0.6B,word,False,167.08,167.26
+25,10,falls,179,falls,falls,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,167.44,168.0,159,Qwen/Qwen3-ForcedAligner-0.6B,word,False,167.44,168.0
+25,17,then,181,then,then,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,168.16,168.32,160,Qwen/Qwen3-ForcedAligner-0.6B,word,False,168.16,168.32
+25,22,I'll,182,I'll,ill,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,168.48,168.64,161,Qwen/Qwen3-ForcedAligner-0.6B,word,False,168.48,168.64
+25,27,be,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,162,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+25,30,waiting,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,163,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+26,1,Gave,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,164,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+26,6,my,188,my,my,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,170.32,170.72,165,Qwen/Qwen3-ForcedAligner-0.6B,word,False,170.32,170.72
+26,9,love,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,166,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+26,14,to,190,to,to,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,170.8,171.12,167,Qwen/Qwen3-ForcedAligner-0.6B,word,False,170.8,171.12
+26,17,a,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,168,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+26,19,shooting,191 / 192,shooting / +,shoot / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,171.12,171.84,169,Qwen/Qwen3-ForcedAligner-0.6B,word,False,171.12,171.84
+26,28,star,194,star,star,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,172.08,172.56,170,Qwen/Qwen3-ForcedAligner-0.6B,word,False,172.08,172.56
+27,1,But,195,But,but,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,172.72,172.88,171,Qwen/Qwen3-ForcedAligner-0.6B,word,False,172.72,172.88
+27,5,she,196,she,she,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,172.88,173.04,172,Qwen/Qwen3-ForcedAligner-0.6B,word,False,172.88,173.04
+27,9,moves,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,173,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+27,15,so,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,174,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+27,18,fast,203,fast,fast,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,174.16,176.56,175,Qwen/Qwen3-ForcedAligner-0.6B,word,False,174.16,176.56
+27,23,that,213,that,that,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,178.96,181.36,176,Qwen/Qwen3-ForcedAligner-0.6B,word,False,178.96,181.36
+27,28,I,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,177,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+27,30,can't,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,178,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+27,36,keep,249,keep,keep,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,190.88,191.091,179,Qwen/Qwen3-ForcedAligner-0.6B,word,False,190.88,191.091
+27,41,up,250,up,up,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,191.302,191.514,180,Qwen/Qwen3-ForcedAligner-0.6B,word,False,191.302,191.514
+27,45,I'm,251,I'm,im,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,191.725,191.937,181,Qwen/Qwen3-ForcedAligner-0.6B,word,False,191.725,191.937
+27,49,chasing,252 / 253,chasing / +,chas / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,192.148,192.36,182,Qwen/Qwen3-ForcedAligner-0.6B,word,False,192.148,192.36
+28,1,I'm,254,I'm,im,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,192.571,192.782,183,Qwen/Qwen3-ForcedAligner-0.6B,word,False,192.571,192.782
+28,5,in,255,in,in,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,192.994,193.205,184,Qwen/Qwen3-ForcedAligner-0.6B,word,False,192.994,193.205
+28,8,love,256,love,love,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,193.417,193.628,185,Qwen/Qwen3-ForcedAligner-0.6B,word,False,193.417,193.628
+28,13,with,258,with,with,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,193.84,194.08,186,Qwen/Qwen3-ForcedAligner-0.6B,word,False,193.84,194.08
+28,18,a,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,187,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+28,20,shooting,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,188,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+28,29,star,262,star,star,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,195.04,195.52,189,Qwen/Qwen3-ForcedAligner-0.6B,word,False,195.04,195.52
+28,34,but,263,but,but,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,195.52,195.92,190,Qwen/Qwen3-ForcedAligner-0.6B,word,False,195.52,195.92
+28,38,she,264,she,she,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,195.92,196.144,191,Qwen/Qwen3-ForcedAligner-0.6B,word,False,195.92,196.144
+28,42,moves,266,moves,moves,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,196.368,196.592,192,Qwen/Qwen3-ForcedAligner-0.6B,word,False,196.368,196.592
+28,48,so,267,so,so,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,196.816,197.04,193,Qwen/Qwen3-ForcedAligner-0.6B,word,False,196.816,197.04
+28,51,fast,268,fast,fast,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,197.04,197.76,194,Qwen/Qwen3-ForcedAligner-0.6B,word,False,197.04,197.76
+29,1,When,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,195,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+29,6,she,270,she,she,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,197.84,198.16,196,Qwen/Qwen3-ForcedAligner-0.6B,word,False,197.84,198.16
+29,10,falls,272,falls,falls,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,198.4,198.64,197,Qwen/Qwen3-ForcedAligner-0.6B,word,False,198.4,198.64
+29,17,then,273,then,then,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,198.88,199.12,198,Qwen/Qwen3-ForcedAligner-0.6B,word,False,198.88,199.12
+29,22,I'll,274,I'll,ill,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,199.12,199.6,199,Qwen/Qwen3-ForcedAligner-0.6B,word,False,199.12,199.6
+29,27,be,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,200,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+29,30,waiting,276 / 277,waiting / +,wait / ing,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,199.76,200.064,201,Qwen/Qwen3-ForcedAligner-0.6B,word,False,199.76,200.064
+30,1,Gave,278,Gave,gave,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,200.369,200.674,202,Qwen/Qwen3-ForcedAligner-0.6B,word,False,200.369,200.674
+30,6,my,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,200.979,201.283,203,Qwen/Qwen3-ForcedAligner-0.6B,word,False,200.979,201.283
+30,9,love,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,201.588,201.893,204,Qwen/Qwen3-ForcedAligner-0.6B,word,False,201.588,201.893
+30,14,to,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,202.198,202.502,205,Qwen/Qwen3-ForcedAligner-0.6B,word,False,202.198,202.502
+30,17,a,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,202.807,203.112,206,Qwen/Qwen3-ForcedAligner-0.6B,word,False,202.807,203.112
+30,19,shooting,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,203.417,203.721,207,Qwen/Qwen3-ForcedAligner-0.6B,word,False,203.417,203.721
+30,28,star,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,204.026,204.331,208,Qwen/Qwen3-ForcedAligner-0.6B,word,False,204.026,204.331
+31,1,But,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,204.636,204.94,209,Qwen/Qwen3-ForcedAligner-0.6B,word,False,204.636,204.94
+31,5,she,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,205.245,205.55,210,Qwen/Qwen3-ForcedAligner-0.6B,word,False,205.245,205.55
+31,9,moves,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,205.855,206.16,211,Qwen/Qwen3-ForcedAligner-0.6B,word,False,205.855,206.16
+31,15,so,279,so,so,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,206.16,209.28,212,Qwen/Qwen3-ForcedAligner-0.6B,word,False,206.16,209.28
+31,18,fast,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,209.28,209.36,213,Qwen/Qwen3-ForcedAligner-0.6B,word,False,209.28,209.36
+31,23,that,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,209.36,209.76,214,Qwen/Qwen3-ForcedAligner-0.6B,word,False,209.36,209.76
+31,28,I,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,215,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+31,30,can't,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,216,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+31,36,keep,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,217,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+31,41,up,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,218,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+31,45,I'm,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,219,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+31,49,chasing,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,210.6,211.44,220,Qwen/Qwen3-ForcedAligner-0.6B,word,False,210.6,211.44
+32,1,I'm,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,212.28,213.12,221,Qwen/Qwen3-ForcedAligner-0.6B,word,False,212.28,213.12
+32,5,in,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,222,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+32,8,love,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,223,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+32,13,with,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,224,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+32,18,a,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,225,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+32,20,shooting,,,,,,,,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,213.984,214.288,226,Qwen/Qwen3-ForcedAligner-0.6B,word,False,213.984,214.288
+32,29,star,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,214.592,214.896,227,Qwen/Qwen3-ForcedAligner-0.6B,word,False,214.592,214.896
+32,34,but,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,215.2,215.38,228,Qwen/Qwen3-ForcedAligner-0.6B,word,False,215.2,215.38
+32,38,she,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,215.56,215.74,229,Qwen/Qwen3-ForcedAligner-0.6B,word,False,215.56,215.74
+32,42,moves,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,215.92,216.1,230,Qwen/Qwen3-ForcedAligner-0.6B,word,False,215.92,216.1
+32,48,so,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,216.28,216.46,231,Qwen/Qwen3-ForcedAligner-0.6B,word,False,216.28,216.46
+32,51,fast,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,216.64,218.22,232,Qwen/Qwen3-ForcedAligner-0.6B,word,False,216.64,218.22
+33,1,When,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,219.8,221.38,233,Qwen/Qwen3-ForcedAligner-0.6B,word,False,219.8,221.38
+33,6,she,,,,,,,,,UNKNOWN,이 모델은 단어 범위만 제공하며 개별 음절·문자 시각과 신뢰도 점수를 제공하지 않습니다. 단어 범위 안의 가사 대응은 UNKNOWN입니다.,222.96,224.54,234,Qwen/Qwen3-ForcedAligner-0.6B,word,False,222.96,224.54
+33,10,falls,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,235,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+33,17,then,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,236,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+33,22,I'll,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,237,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+33,27,be,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,238,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,
+33,30,waiting,,,,,,,,,UNKNOWN,Qwen 관측 시각이 WAV 범위를 벗어나거나 길이가 0 또는 음수입니다.,,,239,Qwen/Qwen3-ForcedAligner-0.6B,word,False,,

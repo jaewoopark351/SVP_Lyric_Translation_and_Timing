@@ -1,0 +1,241 @@
+﻿txt_line,txt_column,txt_word,note_numbers,svp_lyrics,syllables,ctc_starts_s,ctc_vowel_candidates_s,ctc_end_s,ctc_p,mms_onsets_s,status,reason,unknown_start_s,unknown_end_s,word_index,model_id,alignment_unit,score_available,observed_word_start_s,observed_word_end_s
+1,1,It's,1,It's,its,40.792,,40.913,0.802,,ALIGNED,,,,0,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,40.7925,40.9125
+1,6,late,2,late,late,40.972,,41.413,0.353,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,40.9725,41.4125,1,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,40.9725,41.4125
+1,11,and,4,and,and,41.612,,41.712,0.334,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,41.6125,41.7125,2,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,41.6125,41.7125
+1,15,I'm,5,I'm,im,41.992,,42.133,0.617,,ALIGNED,,,,3,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,41.9925,42.1325
+1,19,awake,6 / 8,awake / +,aw / ake,42.453 / 42.953,,42.672 / 43.112,0.896 / 0.896,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,42.4525,43.1125,4,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,42.4525,43.1125
+2,1,Staring,9 / 10,Staring / +,star / ing,44.693 / 45.453,,45.252 / 45.553,0.765 / 0.765,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,44.6925,45.5525,5,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,44.6925,45.5525
+2,9,at,11,at,at,45.773,,45.852,0.980,,ALIGNED,,,,6,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,45.7725,45.8525
+2,12,the,12,the,the,45.992,,46.252,0.865,,ALIGNED,,,,7,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,45.9925,46.2525
+2,16,wall,13,wall,wall,46.432,,46.913,0.709,,ALIGNED,,,,8,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,46.4325,46.9125
+3,1,Open,14 / 15,Open / +,op / en,48.913 / 49.273,,49.072 / 49.373,0.805 / 0.805,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,48.9125,49.3725,9,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,48.9125,49.3725
+3,6,up,16,up,up,49.593,,49.672,0.908,,ALIGNED,,,,10,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,49.5925,49.6725
+3,9,my,17,my,my,49.852,,50.133,0.988,,ALIGNED,,,,11,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,49.8525,50.1325
+3,12,window,18 / 19,window / +,win / dow,50.373 / 50.792,,50.633 / 51.053,0.816 / 0.816,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,50.3725,51.0525,12,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,50.3725,51.0525
+4,1,Head,20,Head,head,52.513,,52.812,0.334,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,52.5125,52.8125,13,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,52.5125,52.8125
+4,6,floats,21,floats,floats,52.953,,53.392,0.397,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,52.9525,53.3925,14,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,52.9525,53.3925
+4,13,out,22,out,out,53.712,,53.792,0.589,,ALIGNED,,,,15,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,53.7125,53.7925
+4,17,the,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,53.8125,53.8725,16,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,53.8125,53.8725
+4,21,door,23,door,door,54.172,,54.492,0.622,,ALIGNED,,,,17,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,54.1725,54.4925
+5,1,No,24,No,no,56.312,,56.492,0.542,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,56.3125,56.4925,18,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,56.3125,56.4925
+5,4,one,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,56.8525,56.9925,19,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,56.8525,56.9925
+5,8,else,25,else,else,57.233,,57.752,0.277,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,57.2325,57.7525,20,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,57.2325,57.7525
+5,13,around,26 / 27,around / +,ar / ound,57.913 / 58.352,,58.053 / 58.532,0.656 / 0.656,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,57.9125,58.5325,21,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,57.9125,58.5325
+6,1,And,28,And,and,59.852,,59.992,0.023,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,59.8525,59.9925,22,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,59.8525,59.9925
+6,5,a,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,60.0125,60.0325,23,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,60.0125,60.0325
+6,7,shimmer,29 / 30,shimmer / +,shim / mer,60.112 / 60.453,,60.392 / 60.612,0.860 / 0.860,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,60.1125,60.6125,24,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,60.1125,60.6125
+6,15,takes,31,takes,takes,60.833,,61.252,0.989,,ALIGNED,,,,25,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,60.8325,61.2525
+6,21,my,32,my,my,61.373,,61.593,0.997,,ALIGNED,,,,26,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,61.3725,61.5925
+6,24,eye,33,eye,eye,62.153,,62.273,0.976,,ALIGNED,,,,27,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,62.1525,62.2725
+7,1,I,34,I,i,64.552,,64.573,0.993,,ALIGNED,,,,28,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,64.5525,64.5725
+7,3,lift,35,lift,lift,64.772,,65.032,0.983,,ALIGNED,,,,29,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,64.7725,65.0325
+7,8,my,36,my,my,65.252,,65.433,0.881,,ALIGNED,,,,30,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,65.2525,65.4325
+7,11,head,37,head,head,65.672,,66.073,0.979,,ALIGNED,,,,31,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,65.6725,66.0725
+7,17,blinded,38 / 39,blinded / +,blin / ded,67.832 / 68.312,,68.293 / 68.392,0.677 / 0.677,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,67.8325,68.3925,32,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,67.8325,68.3925
+7,25,by,40,by,by,68.552,,68.953,0.980,,ALIGNED,,,,33,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,68.5525,68.9525
+7,28,the,41,the,the,69.153,,69.252,0.928,,ALIGNED,,,,34,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,69.1525,69.2525
+7,32,sky,42,sky,sky,69.412,,69.892,0.957,,ALIGNED,,,,35,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,69.4125,69.8925
+8,1,Feel,43,Feel,feel,71.672,,71.933,0.222,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,71.6725,71.9325,36,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,71.6725,71.9325
+8,6,my,44,my,my,71.993,,72.172,0.647,,ALIGNED,,,,37,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,71.9925,72.1725
+8,9,weight,46,weight,weight,72.453,,72.793,0.183,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,72.4525,72.7925,38,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,72.4525,72.7925
+8,16,in,47,in,in,73.052,,73.153,0.683,,ALIGNED,,,,39,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,73.0525,73.1525
+8,19,front,48,front,front,73.312,,73.793,0.441,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,73.3125,73.7925,40,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,73.3125,73.7925
+9,1,Following,49 / 50 / 51,Following / + / +,fol / low / ing,75.513 / 75.873 / 76.472,,75.812 / 76.312 / 76.593,0.510 / 0.510 / 0.510,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,75.5125,76.5925,41,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,75.5125,76.5925
+9,11,the,52,the,the,76.733,,76.933,0.006,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,76.7325,76.9325,42,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,76.7325,76.9325
+9,15,sound,53,sound,sound,77.132,,77.692,0.308,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,77.1325,77.6925,43,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,77.1325,77.6925
+10,1,It,54,It,it,79.192,,79.233,0.099,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,79.1925,79.2325,44,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,79.1925,79.2325
+10,4,moves,55,moves,moves,79.332,,79.832,0.955,,ALIGNED,,,,45,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,79.3325,79.8325
+10,10,away,56 / 57,away / +,aw / ay,79.993 / 80.272,,80.132 / 80.353,0.988 / 0.988,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,79.9925,80.3525,46,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,79.9925,80.3525
+10,15,so,58,so,so,80.532,,80.772,1.000,,ALIGNED,,,,47,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,80.5325,80.7725
+10,18,fast,59,fast,fast,80.993,,81.532,1.000,,ALIGNED,,,,48,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,80.9925,81.5325
+11,1,Fall,60,Fall,fall,83.213,,83.752,0.956,,ALIGNED,,,,49,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,83.2125,83.7525
+11,6,down,61,down,down,83.812,,84.052,0.386,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,83.8125,84.0525,50,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,83.8125,84.0525
+11,11,to,62,to,to,84.153,,84.453,0.997,,ALIGNED,,,,51,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,84.1525,84.4525
+11,14,the,63,the,the,84.672,,84.793,0.930,,ALIGNED,,,,52,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,84.6725,84.7925
+11,18,ground,64,ground,ground,84.873,,85.472,0.995,,ALIGNED,,,,53,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,84.8725,85.4725
+12,1,I,65,I,i,86.912,,86.933,0.009,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,86.9125,86.9325,54,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,86.9125,86.9325
+12,3,know,66,know,know,87.052,,87.373,0.462,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,87.0525,87.3725,55,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,87.0525,87.3725
+12,8,there's,67,there's,theres,87.392,,87.612,0.147,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,87.3925,87.6125,56,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,87.3925,87.6125
+12,16,more,68,more,more,87.793,,88.132,0.354,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,87.7925,88.1325,57,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,87.7925,88.1325
+12,21,to,69,to,to,88.172,,88.433,0.255,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,88.1725,88.4325,58,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,88.1725,88.4325
+12,24,come,70,come,come,88.653,,89.192,0.683,,ALIGNED,,,,59,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,88.6525,89.1925
+13,1,Jump,71,Jump,jump,90.832,,91.233,0.994,,ALIGNED,,,,60,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,90.8325,91.2325
+13,6,back,72,back,back,91.392,,91.692,0.989,,ALIGNED,,,,61,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,91.3925,91.6925
+13,11,to,73,to,to,91.812,,91.972,0.915,,ALIGNED,,,,62,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,91.8125,91.9725
+13,14,my,74,my,my,92.112,,92.353,0.904,,ALIGNED,,,,63,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,92.1125,92.3525
+13,17,feet,75,feet,feet,92.532,,92.972,0.230,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,92.5325,92.9725,64,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,92.5325,92.9725
+14,1,And,76,And,and,93.112,,94.412,0.336,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다. CTC 후보와 기존 음표 시작의 차이가 0.5초를 넘습니다.,93.1125,94.4125,65,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,93.1125,94.4125
+14,5,I,77,I,i,94.552,,94.573,0.490,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,94.5525,94.5725,66,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,94.5525,94.5725
+14,7,only,78 / 79,only / +,on / ly,94.972 / 95.272,,95.213 / 95.392,0.610 / 0.610,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,94.9725,95.3925,67,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,94.9725,95.3925
+14,12,see,80,see,see,95.632,,95.933,0.922,,ALIGNED,,,,68,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,95.6325,95.9325
+14,16,ahead,81 / 82,ahead / +,ah / ead,96.153 / 96.593,,96.373 / 96.713,0.977 / 0.977,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,96.1525,96.7125,69,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,96.1525,96.7125
+14,22,of,84,of,of,97.073,,97.153,0.859,,ALIGNED,,,,70,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,97.0725,97.1525
+14,25,me,85,me,me,97.373,,97.552,0.928,,ALIGNED,,,,71,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,97.3725,97.5525
+15,1,Chasing,86 / 87,Chasing / +,chas / ing,98.493 / 99.233,,98.892 / 99.353,0.865 / 0.865,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,98.4925,99.3525,72,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,98.4925,99.3525
+15,9,down,88,down,down,99.532,,99.953,0.919,,ALIGNED,,,,73,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,99.5325,99.9525
+15,14,the,89,the,the,100.013,,100.093,0.371,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,100.0125,100.0925,74,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,100.0125,100.0925
+15,18,street,90,street,street,100.153,,100.612,0.953,,ALIGNED,,,,75,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,100.1525,100.6125
+16,2,Down,91,Down,down,101.513,,101.912,0.126,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,101.5125,101.9125,76,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,101.5125,101.9125
+16,7,the,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,101.9725,102.0325,77,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,101.9725,102.0325
+16,11,street,92,street,street,102.093,,102.612,0.079,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,102.0925,102.6125,78,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,102.0925,102.6125
+16,19,down,93,down,down,103.412,,104.632,0.150,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,103.4125,104.6325,79,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,103.4125,104.6325
+16,24,the,95,the,the,105.353,,105.692,0.550,,ALIGNED,,,,80,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,105.3525,105.6925
+16,28,street,96,street,street,105.972,,106.493,0.093,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,105.9725,106.4925,81,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,105.9725,106.4925
+17,2,Down,97,Down,down,107.252,,108.993,0.176,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,107.2525,108.9925,82,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,107.2525,108.9925
+17,7,the,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,109.2325,109.5125,83,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,109.2325,109.5125
+17,11,street,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,109.6725,110.3925,84,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,109.6725,110.3925
+17,19,down,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,112.0725,113.3725,85,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,112.0725,113.3725
+17,24,the,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,121.4725,122.0925,86,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,121.4725,122.0925
+17,28,street,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,122.3125,124.1525,87,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,122.3125,124.1525
+18,1,Gave,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,124.8725,139.5525,88,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,124.8725,139.5525
+18,6,my,99,my,my,139.613,,139.653,0.387,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,139.6125,139.6525,89,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,139.6125,139.6525
+18,9,love,100,love,love,139.673,,140.032,0.091,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,139.6725,140.0325,90,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,139.6725,140.0325
+18,14,to,101,to,to,140.113,,140.213,0.648,,ALIGNED,,,,91,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,140.1125,140.2125
+18,17,a,102,a,a,140.292,,140.312,0.004,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,140.2925,140.3125,92,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,140.2925,140.3125
+18,19,shooting,103 / 105,shooting / +,shoot / ing,140.532 / 141.252,,141.032 / 141.373,0.541 / 0.541,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,140.5325,141.3725,93,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,140.5325,141.3725
+18,28,star,106,star,star,141.452,,141.833,0.519,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,141.4525,141.8325,94,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,141.4525,141.8325
+19,1,But,107,But,but,142.053,,142.192,0.408,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,142.0525,142.1925,95,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,142.0525,142.1925
+19,5,she,108,she,she,142.232,,142.393,0.318,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,142.2325,142.3925,96,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,142.2325,142.3925
+19,9,moves,109,moves,moves,142.512,,142.952,0.404,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,142.5125,142.9525,97,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,142.5125,142.9525
+19,15,so,110,so,so,142.993,,143.173,0.407,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,142.9925,143.1725,98,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,142.9925,143.1725
+19,18,fast,111,fast,fast,143.452,,143.773,0.941,,ALIGNED,,,,99,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,143.4525,143.7725
+19,23,that,112,that,that,143.972,,144.232,0.705,,ALIGNED,,,,100,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,143.9725,144.2325
+19,28,I,113,I,i,144.292,,144.312,0.221,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,144.2925,144.3125,101,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,144.2925,144.3125
+19,30,can't,114,can't,cant,144.393,,144.812,0.791,,ALIGNED,,,,102,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,144.3925,144.8125
+19,36,keep,115,keep,keep,144.893,,145.192,0.964,,ALIGNED,,,,103,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,144.8925,145.1925
+19,41,up,116,up,up,145.553,,145.632,0.691,,ALIGNED,,,,104,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,145.5525,145.6325
+19,45,I'm,117,I'm,im,145.812,,145.972,0.125,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,145.8125,145.9725,105,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,145.8125,145.9725
+19,49,chasing,118 / 119,chasing / +,chas / ing,146.032 / 146.532,,146.373 / 146.632,0.319 / 0.319,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,146.0325,146.6325,106,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,146.0325,146.6325
+20,1,I'm,120,I'm,im,147.213,,147.312,0.208,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,147.2125,147.3125,107,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,147.2125,147.3125
+20,5,in,121,in,in,147.433,,147.512,0.140,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,147.4325,147.5125,108,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,147.4325,147.5125
+20,8,love,122,love,love,147.572,,147.752,0.062,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,147.5725,147.7525,109,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,147.5725,147.7525
+20,13,with,123,with,with,147.812,,148.093,0.321,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,147.8125,148.0925,110,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,147.8125,148.0925
+20,18,a,124,a,a,148.113,,148.132,0.000,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,148.1125,148.1325,111,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,148.1125,148.1325
+20,20,shooting,125 / 126,shooting / +,shoot / ing,148.232 / 148.933,,148.752 / 149.032,0.695 / 0.695,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,148.2325,149.0325,112,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,148.2325,149.0325
+20,29,star,127,star,star,149.132,,149.452,0.508,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,149.1325,149.4525,113,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,149.1325,149.4525
+20,34,but,128,but,but,149.752,,149.893,0.074,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,149.7525,149.8925,114,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,149.7525,149.8925
+20,38,she,129,she,she,149.952,,150.113,0.270,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,149.9525,150.1125,115,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,149.9525,150.1125
+20,42,moves,130,moves,moves,150.192,,150.593,0.376,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,150.1925,150.5925,116,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,150.1925,150.5925
+20,48,so,131,so,so,150.653,,150.873,0.843,,ALIGNED,,,,117,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,150.6525,150.8725
+20,51,fast,132,fast,fast,151.132,,151.472,0.943,,ALIGNED,,,,118,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,151.1325,151.4725
+21,1,When,133,When,when,151.673,,151.833,0.331,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,151.6725,151.8325,119,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,151.6725,151.8325
+21,6,she,134,she,she,151.893,,151.972,0.107,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,151.8925,151.9725,120,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,151.8925,151.9725
+21,10,falls,135,falls,falls,152.093,,152.613,0.533,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,152.0925,152.6125,121,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,152.0925,152.6125
+21,17,then,137,then,then,152.673,,152.893,0.343,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,152.6725,152.8925,122,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,152.6725,152.8925
+21,22,I'll,139,I'll,ill,153.352,,153.512,0.210,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,153.3525,153.5125,123,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,153.3525,153.5125
+21,27,be,140,be,be,153.553,,153.732,0.122,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,153.5525,153.7325,124,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,153.5525,153.7325
+21,30,waiting,141 / 142,waiting / +,wait / ing,153.812 / 154.192,,154.072 / 154.292,0.647 / 0.647,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,153.8125,154.2925,125,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,153.8125,154.2925
+22,1,Gave,143,Gave,gave,154.773,,155.012,0.544,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,154.7725,155.0125,126,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,154.7725,155.0125
+22,6,my,144,my,my,155.053,,155.093,0.002,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,155.0525,155.0925,127,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,155.0525,155.0925
+22,9,love,145,love,love,155.213,,155.412,0.043,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,155.2125,155.4125,128,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,155.2125,155.4125
+22,14,to,146,to,to,155.472,,155.653,0.978,,ALIGNED,,,,129,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,155.4725,155.6525
+22,17,a,,,,,,,,,UNKNOWN,시간상 대응하는 기존 음표가 부족하거나 CTC와 음표 구간이 맞지 않습니다.,155.6725,155.6925,130,WAV2VEC2_ASR_LARGE_LV60K_960H,character,False,155.6725,155.6925
+22,19,shooting,147 / 148,shooting / +,shoot / ing,155.893 / 156.472,,156.433 / 156.713,0.614 / 0.614,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,155.8925,156.7125,131,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,155.8925,156.7125
+22,28,star,149,star,star,156.812,,157.173,0.423,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,156.8125,157.1725,132,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,156.8125,157.1725
+23,1,But,150,But,but,157.433,,157.553,0.125,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,157.4325,157.5525,133,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,157.4325,157.5525
+23,5,she,151,she,she,157.613,,157.692,0.276,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,157.6125,157.6925,134,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,157.6125,157.6925
+23,9,moves,152,moves,moves,157.852,,158.292,0.417,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,157.8525,158.2925,135,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,157.8525,158.2925
+23,15,so,153,so,so,158.312,,158.532,0.331,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,158.3125,158.5325,136,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,158.3125,158.5325
+23,18,fast,154,fast,fast,158.812,,159.132,0.779,,ALIGNED,,,,137,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,158.8125,159.1325
+23,23,that,155,that,that,159.333,,159.572,0.583,,ALIGNED,,,,138,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,159.3325,159.5725
+23,28,I,156,I,i,159.653,,159.673,0.256,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,159.6525,159.6725,139,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,159.6525,159.6725
+23,30,can't,157,can't,cant,159.773,,160.173,0.772,,ALIGNED,,,,140,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,159.7725,160.1725
+23,36,keep,158,keep,keep,160.252,,160.553,0.981,,ALIGNED,,,,141,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,160.2525,160.5525
+23,41,up,159,up,up,160.912,,160.993,0.813,,ALIGNED,,,,142,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,160.9125,160.9925
+23,45,I'm,160,I'm,im,161.292,,161.352,0.003,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,161.2925,161.3525,143,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,161.2925,161.3525
+23,49,chasing,161 / 162,chasing / +,chas / ing,161.412 / 161.893,,161.732 / 161.993,0.401 / 0.401,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,161.4125,161.9925,144,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,161.4125,161.9925
+24,1,I'm,163,I'm,im,162.572,,162.653,0.120,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,162.5725,162.6525,145,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,162.5725,162.6525
+24,5,in,164,in,in,162.833,,162.873,0.122,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,162.8325,162.8725,146,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,162.8325,162.8725
+24,8,love,165,love,love,162.933,,163.113,0.091,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,162.9325,163.1125,147,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,162.9325,163.1125
+24,13,with,166,with,with,163.153,,163.393,0.235,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,163.1525,163.3925,148,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,163.1525,163.3925
+24,18,a,167,a,a,163.412,,163.433,0.000,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,163.4125,163.4325,149,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,163.4125,163.4325
+24,20,shooting,168 / 170,shooting / +,shoot / ing,163.593 / 164.292,,164.113 / 164.393,0.672 / 0.672,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,163.5925,164.3925,150,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,163.5925,164.3925
+24,29,star,171,star,star,164.493,,164.873,0.422,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,164.4925,164.8725,151,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,164.4925,164.8725
+24,34,but,172,but,but,165.113,,165.252,0.120,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,165.1125,165.2525,152,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,165.1125,165.2525
+24,38,she,173,she,she,165.312,,165.393,0.286,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,165.3125,165.3925,153,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,165.3125,165.3925
+24,42,moves,174,moves,moves,165.632,,165.972,0.234,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,165.6325,165.9725,154,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,165.6325,165.9725
+24,48,so,175,so,so,165.993,,166.213,0.096,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,165.9925,166.2125,155,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,165.9925,166.2125
+24,51,fast,176,fast,fast,166.493,,166.833,0.857,,ALIGNED,,,,156,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,166.4925,166.8325
+25,1,When,177,When,when,167.012,,167.173,0.181,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,167.0125,167.1725,157,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,167.0125,167.1725
+25,6,she,178,she,she,167.213,,167.333,0.572,,ALIGNED,,,,158,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,167.2125,167.3325
+25,10,falls,179,falls,falls,167.472,,167.972,0.784,,UNKNOWN,한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,167.4725,167.9725,159,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,167.4725,167.9725
+25,17,then,181,then,then,168.032,,168.252,0.360,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,168.0325,168.2525,160,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,168.0325,168.2525
+25,22,I'll,183,I'll,ill,168.692,,168.873,0.996,,ALIGNED,,,,161,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,168.6925,168.8725
+25,27,be,184,be,be,168.933,,169.072,0.936,,ALIGNED,,,,162,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,168.9325,169.0725
+25,30,waiting,185 / 186,waiting / +,wait / ing,169.173 / 169.553,,169.433 / 169.653,0.894 / 0.894,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,169.1725,169.6525,163,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,169.1725,169.6525
+26,1,Gave,187,Gave,gave,170.132,,170.352,0.238,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,170.1325,170.3525,164,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,170.1325,170.3525
+26,6,my,188,my,my,170.393,,170.632,0.117,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,170.3925,170.6325,165,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,170.3925,170.6325
+26,9,love,189,love,love,170.692,,170.792,0.032,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,170.6925,170.7925,166,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,170.6925,170.7925
+26,14,to,190,to,to,170.833,,171.032,0.852,,ALIGNED,,,,167,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,170.8325,171.0325
+26,17,a,191,a,a,171.153,,171.173,0.000,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,171.1525,171.1725,168,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,171.1525,171.1725
+26,19,shooting,192 / 193,shooting / +,shoot / ing,171.252 / 171.972,,171.792 / 172.072,0.780 / 0.780,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,171.2525,172.0725,169,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,171.2525,172.0725
+26,28,star,194,star,star,172.173,,172.472,0.506,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,172.1725,172.4725,170,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,172.1725,172.4725
+27,1,But,195,But,but,172.773,,172.912,0.180,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,172.7725,172.9125,171,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,172.7725,172.9125
+27,5,she,196,she,she,172.952,,173.032,0.228,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,172.9525,173.0325,172,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,172.9525,173.0325
+27,9,moves,197,moves,moves,173.213,,173.632,0.302,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,173.2125,173.6325,173,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,173.2125,173.6325
+27,15,so,198,so,so,173.713,,173.912,0.298,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,173.7125,173.9125,174,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,173.7125,173.9125
+27,18,fast,199,fast,fast,174.173,,174.472,0.785,,ALIGNED,,,,175,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,174.1725,174.4725
+27,23,that,200,that,that,174.713,,174.933,0.854,,ALIGNED,,,,176,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,174.7125,174.9325
+27,28,I,201,I,i,174.993,,175.012,0.042,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,174.9925,175.0125,177,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,174.9925,175.0125
+27,30,can't,202,can't,cant,175.132,,175.532,0.860,,ALIGNED,,,,178,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,175.1325,175.5325
+27,36,keep,203,keep,keep,175.613,,175.893,0.950,,ALIGNED,,,,179,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,175.6125,175.8925
+27,41,up,204,up,up,176.273,,176.393,0.340,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,176.2725,176.3925,180,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,176.2725,176.3925
+27,45,I'm,205,I'm,im,176.653,,176.713,0.005,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,176.6525,176.7125,181,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,176.6525,176.7125
+27,49,chasing,206 / 207,chasing / +,chas / ing,176.792 / 177.252,,177.093 / 177.352,0.337 / 0.337,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,176.7925,177.3525,182,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,176.7925,177.3525
+28,1,I'm,208,I'm,im,177.912,,178.032,0.428,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,177.9125,178.0325,183,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,177.9125,178.0325
+28,5,in,209,in,in,178.113,,178.153,0.251,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,178.1125,178.1525,184,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,178.1125,178.1525
+28,8,love,210,love,love,178.173,,178.433,0.203,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,178.1725,178.4325,185,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,178.1725,178.4325
+28,13,with,211,with,with,178.512,,178.792,0.236,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,178.5125,178.7925,186,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,178.5125,178.7925
+28,18,a,212,a,a,178.852,,178.873,0.000,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,178.8525,178.8725,187,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,178.8525,178.8725
+28,20,shooting,213 / 215,shooting / +,shoot / ing,178.952 / 179.653,,179.472 / 179.752,0.825 / 0.825,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,178.9525,179.7525,188,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,178.9525,179.7525
+28,29,star,216,star,star,179.852,,180.232,0.483,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,179.8525,180.2325,189,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,179.8525,180.2325
+28,34,but,217,but,but,180.472,,180.613,0.209,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,180.4725,180.6125,190,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,180.4725,180.6125
+28,38,she,218,she,she,180.653,,180.713,0.211,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,180.6525,180.7125,191,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,180.6525,180.7125
+28,42,moves,219,moves,moves,180.912,,181.333,0.322,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,180.9125,181.3325,192,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,180.9125,181.3325
+28,48,so,221,so,so,181.373,,181.593,0.513,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,181.3725,181.5925,193,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,181.3725,181.5925
+28,51,fast,222,fast,fast,181.852,,182.173,0.883,,ALIGNED,,,,194,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,181.8525,182.1725
+29,1,When,223,When,when,182.393,,182.532,0.434,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,182.3925,182.5325,195,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,182.3925,182.5325
+29,6,she,224,she,she,182.632,,182.692,0.063,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,182.6325,182.6925,196,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,182.6325,182.6925
+29,10,falls,225,falls,falls,182.833,,183.333,0.576,,UNKNOWN,한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,182.8325,183.3325,197,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,182.8325,183.3325
+29,17,then,227,then,then,183.393,,183.613,0.277,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,183.3925,183.6125,198,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,183.3925,183.6125
+29,22,I'll,230,I'll,ill,184.072,,184.232,0.106,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,184.0725,184.2325,199,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,184.0725,184.2325
+29,27,be,231,be,be,184.292,,184.452,0.148,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,184.2925,184.4525,200,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,184.2925,184.4525
+29,30,waiting,232 / 233,waiting / +,wait / ing,184.553 / 184.952,,184.773 / 185.032,0.283 / 0.283,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,184.5525,185.0325,201,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,184.5525,185.0325
+30,1,Gave,234,Gave,gave,185.472,,185.713,0.467,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,185.4725,185.7125,202,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,185.4725,185.7125
+30,6,my,235,my,my,185.773,,185.912,0.016,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,185.7725,185.9125,203,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,185.7725,185.9125
+30,9,love,236,love,love,186.032,,186.153,0.147,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,186.0325,186.1525,204,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,186.0325,186.1525
+30,14,to,237,to,to,186.192,,186.373,0.881,,ALIGNED,,,,205,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,186.1925,186.3725
+30,17,a,238,a,a,186.512,,186.532,0.000,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,186.5125,186.5325,206,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,186.5125,186.5325
+30,19,shooting,239 / 240,shooting / +,shoot / ing,186.613 / 187.333,,187.153 / 187.433,0.569 / 0.569,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다.,186.6125,187.4325,207,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,186.6125,187.4325
+30,28,star,241,star,star,187.532,,187.833,0.501,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,187.5325,187.8325,208,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,187.5325,187.8325
+31,1,But,242,But,but,188.132,,188.273,0.114,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,188.1325,188.2725,209,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,188.1325,188.2725
+31,5,she,243,she,she,188.333,,188.493,0.208,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,188.3325,188.4925,210,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,188.3325,188.4925
+31,9,moves,244,moves,moves,188.572,,188.993,0.264,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,188.5725,188.9925,211,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,188.5725,188.9925
+31,15,so,245,so,so,189.053,,189.273,0.667,,ALIGNED,,,,212,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,189.0525,189.2725
+31,18,fast,246,fast,fast,189.532,,189.833,0.939,,ALIGNED,,,,213,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,189.5325,189.8325
+31,23,that,247,that,that,190.053,,190.273,0.908,,ALIGNED,,,,214,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,190.0525,190.2725
+31,28,I,248,I,i,190.373,,190.393,0.820,,ALIGNED,,,,215,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,190.3725,190.3925
+31,30,can't,249,can't,cant,190.493,,190.893,0.926,,ALIGNED,,,,216,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,190.4925,190.8925
+31,36,keep,250,keep,keep,190.972,,191.252,0.943,,ALIGNED,,,,217,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,190.9725,191.2525
+31,41,up,251,up,up,191.632,,191.732,0.407,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,191.6325,191.7325,218,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,191.6325,191.7325
+31,45,I'm,252,I'm,im,191.933,,192.072,0.001,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,191.9325,192.0725,219,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,191.9325,192.0725
+31,49,chasing,253 / 254,chasing / +,chas / ing,192.153 / 192.593,,192.452 / 192.713,0.288 / 0.288,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,192.1525,192.7125,220,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,192.1525,192.7125
+32,1,I'm,255,I'm,im,193.292,,193.373,0.405,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,193.2925,193.3725,221,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,193.2925,193.3725
+32,5,in,256,in,in,193.532,,193.613,0.245,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,193.5325,193.6125,222,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,193.5325,193.6125
+32,8,love,257,love,love,193.673,,193.833,0.091,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,193.6725,193.8325,223,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,193.6725,193.8325
+32,13,with,258,with,with,193.893,,194.153,0.247,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,193.8925,194.1525,224,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,193.8925,194.1525
+32,18,a,259,a,a,194.213,,194.232,0.003,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,194.2125,194.2325,225,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,194.2125,194.2325
+32,20,shooting,260 / 262,shooting / +,shoot / ing,194.312 / 195.032,,194.833 / 195.132,0.537 / 0.537,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,194.3125,195.1325,226,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,194.3125,195.1325
+32,29,star,263,star,star,195.232,,195.593,0.286,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,195.2325,195.5925,227,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,195.2325,195.5925
+32,34,but,264,but,but,195.833,,195.952,0.036,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,195.8325,195.9525,228,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,195.8325,195.9525
+32,38,she,265,she,she,196.032,,196.093,0.344,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,196.0325,196.0925,229,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,196.0325,196.0925
+32,42,moves,266,moves,moves,196.273,,196.692,0.345,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,196.2725,196.6925,230,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,196.2725,196.6925
+32,48,so,267,so,so,196.732,,196.952,0.565,,ALIGNED,,,,231,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,196.7325,196.9525
+32,51,fast,268,fast,fast,197.213,,197.553,0.571,,ALIGNED,,,,232,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,197.2125,197.5525
+33,1,When,269,When,when,197.732,,197.893,0.330,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,197.7325,197.8925,233,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,197.7325,197.8925
+33,6,she,270,she,she,197.933,,197.993,0.601,,ALIGNED,,,,234,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,197.9325,197.9925
+33,10,falls,271,falls,falls,198.173,,198.692,0.596,,UNKNOWN,한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,198.1725,198.6925,235,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,198.1725,198.6925
+33,17,then,273,then,then,198.752,,198.972,0.316,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,198.7525,198.9725,236,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,198.7525,198.9725
+33,22,I'll,275,I'll,ill,199.352,,199.613,0.307,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,199.3525,199.6125,237,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,199.3525,199.6125
+33,27,be,276,be,be,199.653,,199.792,0.308,,UNKNOWN,CTC 평균 점수가 0.55 미만입니다. 점수는 발음 정확도의 확률이 아닙니다.,199.6525,199.7925,238,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,199.6525,199.7925
+33,30,waiting,277 / 278,waiting / +,wait / ing,199.912 / 200.292,,200.173 / 224.173,0.712 / 0.712,,UNKNOWN,여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. / 여러 음절의 내부 경계는 철자/기존 SVP 추정이며 실제 가창 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다. 한 음절에 여러 음표가 겹칩니다. 지속 발음/멜리스마와 내부 피치 경계 확인이 필요합니다.,199.9125,224.1725,239,WAV2VEC2_ASR_LARGE_LV60K_960H,character,True,199.9125,224.1725

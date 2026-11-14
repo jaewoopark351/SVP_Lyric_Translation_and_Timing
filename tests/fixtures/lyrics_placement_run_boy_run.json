@@ -1,0 +1,4758 @@
+{
+  "schema": 1,
+  "scope": "Focused original-note and cached-observation examples; not an audio or full-song gold standard.",
+  "source_job": "bdbdc903-4563-4bff-99da-98094bcac24c",
+  "source_hashes": [
+    "8c0979dada09b9250ae70da770061f82a7fdc643008d038a2dc53bcf5dded7df",
+    "98153cca2b1e8d60b9e22046cdc7e264306d22a04ae8ab39b74eefc1466e9391",
+    "51262559e13ea04f9be31afc1de0022130cfdbb94389f057d0c77e98949a8677"
+  ],
+  "cached_result_sha256": "8c364e0c4c0fbb2396aa0c00bb58edb72d3daba0557bd6ebc60a96d317f86b21",
+  "historical_manual_sha256": "a9a59018e8c4c54676f04128c6bad836ff4cb16004df0c7b5864094155489fae",
+  "manual_label_scope": "Only documented note 33 la-to-minus and compressed victory/behind are historical lyric corrections. No external manual SVP copied; no manual pitch/timing/deletion used.",
+  "documented_continuation": {
+    "original_note_index": 32,
+    "note_id": "d312d1cc56ce4a00",
+    "expected_lyrics": "-"
+  },
+  "cases": [
+    {
+      "name": "short_ctc_run_tail",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 4,
+          "column": 1,
+          "source": "Run",
+          "original_word_index": 25
+        },
+        {
+          "word_index": 1,
+          "line": 4,
+          "column": 5,
+          "source": "boy",
+          "original_word_index": 26
+        },
+        {
+          "word_index": 2,
+          "line": 4,
+          "column": 9,
+          "source": "run",
+          "original_word_index": 27
+        },
+        {
+          "word_index": 3,
+          "line": 4,
+          "column": 14,
+          "source": "Beauty",
+          "original_word_index": 28
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "r",
+              "end": 27.3725,
+              "label": "r",
+              "p": 0.999518,
+              "start": 27.3525
+            },
+            {
+              "char": "u",
+              "end": 27.5125,
+              "label": "u",
+              "p": 0.995321,
+              "start": 27.4925
+            },
+            {
+              "char": "n",
+              "end": 27.5925,
+              "label": "n",
+              "p": 0.870631,
+              "start": 27.5525
+            }
+          ],
+          "column": 1,
+          "end": 27.5925,
+          "line": 4,
+          "normalized": "run",
+          "p": 0.955157,
+          "reason": "",
+          "source": "Run",
+          "start": 27.3525,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 25
+        },
+        {
+          "chars": [
+            {
+              "char": "b",
+              "end": 27.6925,
+              "label": "b",
+              "p": 0.999658,
+              "start": 27.6725
+            },
+            {
+              "char": "o",
+              "end": 27.8925,
+              "label": "o",
+              "p": 0.799138,
+              "start": 27.8525
+            },
+            {
+              "char": "y",
+              "end": 27.9325,
+              "label": "y",
+              "p": 0.949433,
+              "start": 27.8925
+            }
+          ],
+          "column": 5,
+          "end": 27.9325,
+          "line": 4,
+          "normalized": "boy",
+          "p": 0.916076,
+          "reason": "",
+          "source": "boy",
+          "start": 27.6725,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 26
+        },
+        {
+          "chars": [
+            {
+              "char": "r",
+              "end": 28.0525,
+              "label": "r",
+              "p": 0.985633,
+              "start": 28.0125
+            },
+            {
+              "char": "u",
+              "end": 28.1725,
+              "label": "u",
+              "p": 0.915172,
+              "start": 28.1525
+            },
+            {
+              "char": "n",
+              "end": 28.4725,
+              "label": "n",
+              "p": 0.443481,
+              "start": 28.4525
+            }
+          ],
+          "column": 9,
+          "end": 28.4725,
+          "line": 4,
+          "normalized": "run",
+          "p": 0.781429,
+          "reason": "",
+          "source": "run",
+          "start": 28.0125,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 27
+        },
+        {
+          "chars": [
+            {
+              "char": "b",
+              "end": 28.9325,
+              "label": "b",
+              "p": 0.028127,
+              "start": 28.9125
+            },
+            {
+              "char": "e",
+              "end": 29.0325,
+              "label": "e",
+              "p": 0.157219,
+              "start": 29.0125
+            },
+            {
+              "char": "a",
+              "end": 29.2725,
+              "label": "a",
+              "p": 0.762175,
+              "start": 29.2525
+            },
+            {
+              "char": "u",
+              "end": 29.2925,
+              "label": "u",
+              "p": 0.02232,
+              "start": 29.2725
+            },
+            {
+              "char": "t",
+              "end": 29.3525,
+              "label": "t",
+              "p": 0.183091,
+              "start": 29.3325
+            },
+            {
+              "char": "y",
+              "end": 29.3725,
+              "label": "y",
+              "p": 5.4e-05,
+              "start": 29.3525
+            }
+          ],
+          "column": 14,
+          "end": 29.3725,
+          "line": 4,
+          "normalized": "beauty",
+          "p": 0.192164,
+          "reason": "",
+          "source": "Beauty",
+          "start": 28.9125,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 28
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            28
+          ],
+          "note_id": "e29a5ae8da6b4d0c",
+          "note": {
+            "uuid": "e29a5ae8da6b4d0c",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 38539872000,
+            "duration": 557424000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 38539872000,
+          "duration": 557424000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 27.31,
+          "end_s": 27.705,
+          "note_index": 0,
+          "original_note_index": 28
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            29
+          ],
+          "note_id": "81de58e6a4604387",
+          "note": {
+            "uuid": "81de58e6a4604387",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 39097296000,
+            "duration": 451584000,
+            "pitch": 49,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 39097296000,
+          "duration": 451584000,
+          "pitch": 49,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 27.705,
+          "end_s": 28.025,
+          "note_index": 1,
+          "original_note_index": 29
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            30
+          ],
+          "note_id": "9cbb24b9f7b641e0",
+          "note": {
+            "uuid": "9cbb24b9f7b641e0",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 39548880000,
+            "duration": 225792000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 39548880000,
+          "duration": 225792000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 28.025,
+          "end_s": 28.185,
+          "note_index": 2,
+          "original_note_index": 30
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            31
+          ],
+          "note_id": "e076417169864f92",
+          "note": {
+            "uuid": "e076417169864f92",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 39774672000,
+            "duration": 218736000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 39774672000,
+          "duration": 218736000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 28.185,
+          "end_s": 28.34,
+          "note_index": 3,
+          "original_note_index": 31
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            32
+          ],
+          "note_id": "d312d1cc56ce4a00",
+          "note": {
+            "uuid": "d312d1cc56ce4a00",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 39993408000,
+            "duration": 395136000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 39993408000,
+          "duration": 395136000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 28.34,
+          "end_s": 28.62,
+          "note_index": 4,
+          "original_note_index": 32
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            33
+          ],
+          "note_id": "162161acc65840ec",
+          "note": {
+            "uuid": "162161acc65840ec",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 40826016000,
+            "duration": 381024000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 40826016000,
+          "duration": 381024000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 28.93,
+          "end_s": 29.2,
+          "note_index": 5,
+          "original_note_index": 33
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            34
+          ],
+          "note_id": "ac578376cb504a7b",
+          "note": {
+            "uuid": "ac578376cb504a7b",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 41207040000,
+            "duration": 190512000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 41207040000,
+          "duration": 190512000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 29.2,
+          "end_s": 29.335,
+          "note_index": 6,
+          "original_note_index": 34
+        }
+      ]
+    },
+    {
+      "name": "compressed_victory",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 3,
+          "column": 14,
+          "source": "Running",
+          "original_word_index": 21
+        },
+        {
+          "word_index": 1,
+          "line": 3,
+          "column": 22,
+          "source": "is",
+          "original_word_index": 22
+        },
+        {
+          "word_index": 2,
+          "line": 3,
+          "column": 25,
+          "source": "a",
+          "original_word_index": 23
+        },
+        {
+          "word_index": 3,
+          "line": 3,
+          "column": 27,
+          "source": "victory",
+          "original_word_index": 24
+        },
+        {
+          "word_index": 4,
+          "line": 4,
+          "column": 1,
+          "source": "Run",
+          "original_word_index": 25
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "r",
+              "end": 25.3725,
+              "label": "r",
+              "p": 0.994926,
+              "start": 25.3525
+            },
+            {
+              "char": "u",
+              "end": 25.5325,
+              "label": "u",
+              "p": 0.941825,
+              "start": 25.5125
+            },
+            {
+              "char": "n",
+              "end": 25.5725,
+              "label": "n",
+              "p": 0.98069,
+              "start": 25.5525
+            },
+            {
+              "char": "n",
+              "end": 25.6325,
+              "label": "n",
+              "p": 0.961958,
+              "start": 25.6125
+            },
+            {
+              "char": "i",
+              "end": 25.7325,
+              "label": "i",
+              "p": 0.99603,
+              "start": 25.7125
+            },
+            {
+              "char": "n",
+              "end": 25.7725,
+              "label": "n",
+              "p": 0.998224,
+              "start": 25.7525
+            },
+            {
+              "char": "g",
+              "end": 25.8125,
+              "label": "g",
+              "p": 0.996152,
+              "start": 25.7925
+            }
+          ],
+          "column": 14,
+          "end": 25.8125,
+          "line": 3,
+          "normalized": "running",
+          "p": 0.981401,
+          "reason": "",
+          "source": "Running",
+          "start": 25.3525,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 21
+        },
+        {
+          "chars": [
+            {
+              "char": "i",
+              "end": 25.9725,
+              "label": "i",
+              "p": 0.994603,
+              "start": 25.9525
+            },
+            {
+              "char": "s",
+              "end": 26.0325,
+              "label": "s",
+              "p": 0.955437,
+              "start": 26.0125
+            }
+          ],
+          "column": 22,
+          "end": 26.0325,
+          "line": 3,
+          "normalized": "is",
+          "p": 0.97502,
+          "reason": "",
+          "source": "is",
+          "start": 25.9525,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 22
+        },
+        {
+          "chars": [
+            {
+              "char": "a",
+              "end": 26.1325,
+              "label": "a",
+              "p": 0.949217,
+              "start": 26.1125
+            }
+          ],
+          "column": 25,
+          "end": 26.1325,
+          "line": 3,
+          "normalized": "a",
+          "p": 0.949217,
+          "reason": "",
+          "source": "a",
+          "start": 26.1125,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 23
+        },
+        {
+          "chars": [
+            {
+              "char": "v",
+              "end": 26.2525,
+              "label": "v",
+              "p": 0.99935,
+              "start": 26.2325
+            },
+            {
+              "char": "i",
+              "end": 26.3325,
+              "label": "i",
+              "p": 0.999563,
+              "start": 26.3125
+            },
+            {
+              "char": "c",
+              "end": 26.3725,
+              "label": "c",
+              "p": 0.9994,
+              "start": 26.3525
+            },
+            {
+              "char": "t",
+              "end": 26.4525,
+              "label": "t",
+              "p": 0.999541,
+              "start": 26.4325
+            },
+            {
+              "char": "o",
+              "end": 26.5925,
+              "label": "o",
+              "p": 0.989464,
+              "start": 26.5725
+            },
+            {
+              "char": "r",
+              "end": 26.7125,
+              "label": "r",
+              "p": 0.832586,
+              "start": 26.6525
+            },
+            {
+              "char": "y",
+              "end": 26.8325,
+              "label": "y",
+              "p": 0.989127,
+              "start": 26.7925
+            }
+          ],
+          "column": 27,
+          "end": 26.8325,
+          "line": 3,
+          "normalized": "victory",
+          "p": 0.972719,
+          "reason": "",
+          "source": "victory",
+          "start": 26.2325,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 24
+        },
+        {
+          "chars": [
+            {
+              "char": "r",
+              "end": 27.3725,
+              "label": "r",
+              "p": 0.999518,
+              "start": 27.3525
+            },
+            {
+              "char": "u",
+              "end": 27.5125,
+              "label": "u",
+              "p": 0.995321,
+              "start": 27.4925
+            },
+            {
+              "char": "n",
+              "end": 27.5925,
+              "label": "n",
+              "p": 0.870631,
+              "start": 27.5525
+            }
+          ],
+          "column": 1,
+          "end": 27.5925,
+          "line": 4,
+          "normalized": "run",
+          "p": 0.955157,
+          "reason": "",
+          "source": "Run",
+          "start": 27.3525,
+          "status": "AUTO",
+          "word_index": 4,
+          "original_word_index": 25
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            22
+          ],
+          "note_id": "ca891756717f477a",
+          "note": {
+            "uuid": "ca891756717f477a",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 35780976000,
+            "duration": 352800000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 35780976000,
+          "duration": 352800000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 25.355,
+          "end_s": 25.605,
+          "note_index": 0,
+          "original_note_index": 22
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            23
+          ],
+          "note_id": "7fdf6fac708b45c6",
+          "note": {
+            "uuid": "7fdf6fac708b45c6",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 36133776000,
+            "duration": 331632000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 36133776000,
+          "duration": 331632000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 25.605,
+          "end_s": 25.84,
+          "note_index": 1,
+          "original_note_index": 23
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            24
+          ],
+          "note_id": "fa3e4e4f71c24894",
+          "note": {
+            "uuid": "fa3e4e4f71c24894",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 36465408000,
+            "duration": 289296000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 36465408000,
+          "duration": 289296000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 25.84,
+          "end_s": 26.045,
+          "note_index": 2,
+          "original_note_index": 24
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            25
+          ],
+          "note_id": "a7bb68b981df4636",
+          "note": {
+            "uuid": "a7bb68b981df4636",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 36754704000,
+            "duration": 289296000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 36754704000,
+          "duration": 289296000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 26.045,
+          "end_s": 26.25,
+          "note_index": 3,
+          "original_note_index": 25
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            26
+          ],
+          "note_id": "15ddb1f6640f431a",
+          "note": {
+            "uuid": "15ddb1f6640f431a",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 37044000000,
+            "duration": 345744000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 37044000000,
+          "duration": 345744000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 26.25,
+          "end_s": 26.495,
+          "note_index": 4,
+          "original_note_index": 26
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            27
+          ],
+          "note_id": "0563ab52048a473f",
+          "note": {
+            "uuid": "0563ab52048a473f",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 37389744000,
+            "duration": 726768000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 37389744000,
+          "duration": 726768000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 26.495,
+          "end_s": 27.01,
+          "note_index": 5,
+          "original_note_index": 27
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            28
+          ],
+          "note_id": "e29a5ae8da6b4d0c",
+          "note": {
+            "uuid": "e29a5ae8da6b4d0c",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 38539872000,
+            "duration": 557424000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 38539872000,
+          "duration": 557424000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 27.31,
+          "end_s": 27.705,
+          "note_index": 6,
+          "original_note_index": 28
+        }
+      ]
+    },
+    {
+      "name": "single_note_behind",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 4,
+          "column": 14,
+          "source": "Beauty",
+          "original_word_index": 28
+        },
+        {
+          "word_index": 1,
+          "line": 4,
+          "column": 21,
+          "source": "lays",
+          "original_word_index": 29
+        },
+        {
+          "word_index": 2,
+          "line": 4,
+          "column": 26,
+          "source": "behind",
+          "original_word_index": 30
+        },
+        {
+          "word_index": 3,
+          "line": 4,
+          "column": 33,
+          "source": "the",
+          "original_word_index": 31
+        },
+        {
+          "word_index": 4,
+          "line": 4,
+          "column": 37,
+          "source": "hills",
+          "original_word_index": 32
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "b",
+              "end": 28.9325,
+              "label": "b",
+              "p": 0.028127,
+              "start": 28.9125
+            },
+            {
+              "char": "e",
+              "end": 29.0325,
+              "label": "e",
+              "p": 0.157219,
+              "start": 29.0125
+            },
+            {
+              "char": "a",
+              "end": 29.2725,
+              "label": "a",
+              "p": 0.762175,
+              "start": 29.2525
+            },
+            {
+              "char": "u",
+              "end": 29.2925,
+              "label": "u",
+              "p": 0.02232,
+              "start": 29.2725
+            },
+            {
+              "char": "t",
+              "end": 29.3525,
+              "label": "t",
+              "p": 0.183091,
+              "start": 29.3325
+            },
+            {
+              "char": "y",
+              "end": 29.3725,
+              "label": "y",
+              "p": 5.4e-05,
+              "start": 29.3525
+            }
+          ],
+          "column": 14,
+          "end": 29.3725,
+          "line": 4,
+          "normalized": "beauty",
+          "p": 0.192164,
+          "reason": "",
+          "source": "Beauty",
+          "start": 28.9125,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 28
+        },
+        {
+          "chars": [
+            {
+              "char": "l",
+              "end": 29.4125,
+              "label": "l",
+              "p": 0.137796,
+              "start": 29.3925
+            },
+            {
+              "char": "a",
+              "end": 29.5125,
+              "label": "a",
+              "p": 0.195791,
+              "start": 29.4925
+            },
+            {
+              "char": "y",
+              "end": 29.5325,
+              "label": "y",
+              "p": 0.00132,
+              "start": 29.5125
+            },
+            {
+              "char": "s",
+              "end": 29.5725,
+              "label": "s",
+              "p": 0.905368,
+              "start": 29.5525
+            }
+          ],
+          "column": 21,
+          "end": 29.5725,
+          "line": 4,
+          "normalized": "lays",
+          "p": 0.310069,
+          "reason": "",
+          "source": "lays",
+          "start": 29.3925,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 29
+        },
+        {
+          "chars": [
+            {
+              "char": "b",
+              "end": 29.6525,
+              "label": "b",
+              "p": 0.901123,
+              "start": 29.6325
+            },
+            {
+              "char": "e",
+              "end": 29.7325,
+              "label": "e",
+              "p": 0.983694,
+              "start": 29.7125
+            },
+            {
+              "char": "h",
+              "end": 29.7925,
+              "label": "h",
+              "p": 0.647122,
+              "start": 29.7725
+            },
+            {
+              "char": "i",
+              "end": 29.9125,
+              "label": "i",
+              "p": 0.524467,
+              "start": 29.8925
+            },
+            {
+              "char": "n",
+              "end": 29.9725,
+              "label": "n",
+              "p": 0.945829,
+              "start": 29.9525
+            },
+            {
+              "char": "d",
+              "end": 30.0125,
+              "label": "d",
+              "p": 0.832165,
+              "start": 29.9925
+            }
+          ],
+          "column": 26,
+          "end": 30.0125,
+          "line": 4,
+          "normalized": "behind",
+          "p": 0.805733,
+          "reason": "",
+          "source": "behind",
+          "start": 29.6325,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 30
+        },
+        {
+          "chars": [
+            {
+              "char": "t",
+              "end": 30.0925,
+              "label": "t",
+              "p": 0.968266,
+              "start": 30.0725
+            },
+            {
+              "char": "h",
+              "end": 30.1125,
+              "label": "h",
+              "p": 0.985305,
+              "start": 30.0925
+            },
+            {
+              "char": "e",
+              "end": 30.1925,
+              "label": "e",
+              "p": 0.98676,
+              "start": 30.1725
+            }
+          ],
+          "column": 33,
+          "end": 30.1925,
+          "line": 4,
+          "normalized": "the",
+          "p": 0.98011,
+          "reason": "",
+          "source": "the",
+          "start": 30.0725,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 31
+        },
+        {
+          "chars": [
+            {
+              "char": "h",
+              "end": 30.3125,
+              "label": "h",
+              "p": 0.997184,
+              "start": 30.2925
+            },
+            {
+              "char": "i",
+              "end": 30.4925,
+              "label": "i",
+              "p": 0.871697,
+              "start": 30.4725
+            },
+            {
+              "char": "l",
+              "end": 30.5325,
+              "label": "l",
+              "p": 0.968408,
+              "start": 30.5125
+            },
+            {
+              "char": "l",
+              "end": 30.6325,
+              "label": "l",
+              "p": 0.993418,
+              "start": 30.6125
+            },
+            {
+              "char": "s",
+              "end": 30.7725,
+              "label": "s",
+              "p": 0.99802,
+              "start": 30.7525
+            }
+          ],
+          "column": 37,
+          "end": 30.7725,
+          "line": 4,
+          "normalized": "hills",
+          "p": 0.965745,
+          "reason": "",
+          "source": "hills",
+          "start": 30.2925,
+          "status": "AUTO",
+          "word_index": 4,
+          "original_word_index": 32
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            33
+          ],
+          "note_id": "162161acc65840ec",
+          "note": {
+            "uuid": "162161acc65840ec",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 40826016000,
+            "duration": 381024000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 40826016000,
+          "duration": 381024000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 28.93,
+          "end_s": 29.2,
+          "note_index": 0,
+          "original_note_index": 33
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            34
+          ],
+          "note_id": "ac578376cb504a7b",
+          "note": {
+            "uuid": "ac578376cb504a7b",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 41207040000,
+            "duration": 190512000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 41207040000,
+          "duration": 190512000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 29.2,
+          "end_s": 29.335,
+          "note_index": 1,
+          "original_note_index": 34
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            35
+          ],
+          "note_id": "dedef44896ba4875",
+          "note": {
+            "uuid": "dedef44896ba4875",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 41397552000,
+            "duration": 430416000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 41397552000,
+          "duration": 430416000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 29.335,
+          "end_s": 29.64,
+          "note_index": 2,
+          "original_note_index": 35
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            36
+          ],
+          "note_id": "52612fbd6ba1413d",
+          "note": {
+            "uuid": "52612fbd6ba1413d",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 41827968000,
+            "duration": 599760000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 41827968000,
+          "duration": 599760000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 29.64,
+          "end_s": 30.065,
+          "note_index": 3,
+          "original_note_index": 36
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            37
+          ],
+          "note_id": "a8cf99a2db194c0f",
+          "note": {
+            "uuid": "a8cf99a2db194c0f",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 42427728000,
+            "duration": 388080000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 42427728000,
+          "duration": 388080000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 30.065,
+          "end_s": 30.34,
+          "note_index": 4,
+          "original_note_index": 37
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            38
+          ],
+          "note_id": "372954e0aae7450b",
+          "note": {
+            "uuid": "372954e0aae7450b",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 42815808000,
+            "duration": 839664000,
+            "pitch": 49,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 42815808000,
+          "duration": 839664000,
+          "pitch": 49,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 30.34,
+          "end_s": 30.935,
+          "note_index": 5,
+          "original_note_index": 38
+        }
+      ]
+    },
+    {
+      "name": "society_chain",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 8,
+          "column": 14,
+          "source": "Break",
+          "original_word_index": 61
+        },
+        {
+          "word_index": 1,
+          "line": 8,
+          "column": 20,
+          "source": "out",
+          "original_word_index": 62
+        },
+        {
+          "word_index": 2,
+          "line": 8,
+          "column": 24,
+          "source": "from",
+          "original_word_index": 63
+        },
+        {
+          "word_index": 3,
+          "line": 8,
+          "column": 29,
+          "source": "society",
+          "original_word_index": 64
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "b",
+              "end": 50.4325,
+              "label": "b",
+              "p": 0.989929,
+              "start": 50.4125
+            },
+            {
+              "char": "r",
+              "end": 50.4925,
+              "label": "r",
+              "p": 0.77299,
+              "start": 50.4525
+            },
+            {
+              "char": "e",
+              "end": 50.5325,
+              "label": "e",
+              "p": 0.996864,
+              "start": 50.5125
+            },
+            {
+              "char": "a",
+              "end": 50.5725,
+              "label": "a",
+              "p": 0.998362,
+              "start": 50.5525
+            },
+            {
+              "char": "k",
+              "end": 50.6125,
+              "label": "k",
+              "p": 0.99768,
+              "start": 50.5925
+            }
+          ],
+          "column": 14,
+          "end": 50.6125,
+          "line": 8,
+          "normalized": "break",
+          "p": 0.951165,
+          "reason": "",
+          "source": "Break",
+          "start": 50.4125,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 61
+        },
+        {
+          "chars": [
+            {
+              "char": "o",
+              "end": 50.7525,
+              "label": "o",
+              "p": 0.994464,
+              "start": 50.7325
+            },
+            {
+              "char": "u",
+              "end": 50.7725,
+              "label": "u",
+              "p": 0.994696,
+              "start": 50.7525
+            },
+            {
+              "char": "t",
+              "end": 50.8125,
+              "label": "t",
+              "p": 0.993258,
+              "start": 50.7925
+            }
+          ],
+          "column": 20,
+          "end": 50.8125,
+          "line": 8,
+          "normalized": "out",
+          "p": 0.994139,
+          "reason": "",
+          "source": "out",
+          "start": 50.7325,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 62
+        },
+        {
+          "chars": [
+            {
+              "char": "f",
+              "end": 50.8925,
+              "label": "f",
+              "p": 0.994521,
+              "start": 50.8725
+            },
+            {
+              "char": "r",
+              "end": 50.9125,
+              "label": "r",
+              "p": 0.962641,
+              "start": 50.8925
+            },
+            {
+              "char": "o",
+              "end": 50.9525,
+              "label": "o",
+              "p": 0.995184,
+              "start": 50.9325
+            },
+            {
+              "char": "m",
+              "end": 50.9925,
+              "label": "m",
+              "p": 0.994563,
+              "start": 50.9725
+            }
+          ],
+          "column": 24,
+          "end": 50.9925,
+          "line": 8,
+          "normalized": "from",
+          "p": 0.986727,
+          "reason": "",
+          "source": "from",
+          "start": 50.8725,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 63
+        },
+        {
+          "chars": [
+            {
+              "char": "s",
+              "end": 51.0725,
+              "label": "s",
+              "p": 0.999909,
+              "start": 51.0525
+            },
+            {
+              "char": "o",
+              "end": 51.1725,
+              "label": "o",
+              "p": 0.999738,
+              "start": 51.1525
+            },
+            {
+              "char": "c",
+              "end": 51.2725,
+              "label": "c",
+              "p": 0.999954,
+              "start": 51.2525
+            },
+            {
+              "char": "i",
+              "end": 51.5125,
+              "label": "i",
+              "p": 0.98166,
+              "start": 51.4725
+            },
+            {
+              "char": "e",
+              "end": 51.6925,
+              "label": "e",
+              "p": 0.973118,
+              "start": 51.6725
+            },
+            {
+              "char": "t",
+              "end": 51.7725,
+              "label": "t",
+              "p": 0.999885,
+              "start": 51.7525
+            },
+            {
+              "char": "y",
+              "end": 52.0725,
+              "label": "y",
+              "p": 0.998757,
+              "start": 52.0525
+            }
+          ],
+          "column": 29,
+          "end": 52.0725,
+          "line": 8,
+          "normalized": "society",
+          "p": 0.993289,
+          "reason": "",
+          "source": "society",
+          "start": 51.0525,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 64
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            79
+          ],
+          "note_id": "d2cc2d36e8754424",
+          "note": {
+            "uuid": "d2cc2d36e8754424",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 71209152000,
+            "duration": 289296000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 71209152000,
+          "duration": 289296000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 50.46,
+          "end_s": 50.665,
+          "note_index": 0,
+          "original_note_index": 79
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            80
+          ],
+          "note_id": "d44085b528a74075",
+          "note": {
+            "uuid": "d44085b528a74075",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 71498448000,
+            "duration": 338688000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 71498448000,
+          "duration": 338688000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 50.665,
+          "end_s": 50.905,
+          "note_index": 1,
+          "original_note_index": 80
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            81
+          ],
+          "note_id": "713b935830274b6b",
+          "note": {
+            "uuid": "713b935830274b6b",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 71837136000,
+            "duration": 275184000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 71837136000,
+          "duration": 275184000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 50.905,
+          "end_s": 51.1,
+          "note_index": 2,
+          "original_note_index": 81
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            82
+          ],
+          "note_id": "239ff2aa4b044dd6",
+          "note": {
+            "uuid": "239ff2aa4b044dd6",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 72112320000,
+            "duration": 289296000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 72112320000,
+          "duration": 289296000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 51.1,
+          "end_s": 51.305,
+          "note_index": 3,
+          "original_note_index": 82
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            83
+          ],
+          "note_id": "39b8c71d6750427c",
+          "note": {
+            "uuid": "39b8c71d6750427c",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 72401616000,
+            "duration": 366912000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 72401616000,
+          "duration": 366912000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 51.305,
+          "end_s": 51.565,
+          "note_index": 4,
+          "original_note_index": 83
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            84
+          ],
+          "note_id": "39f19af5605746c6",
+          "note": {
+            "uuid": "39f19af5605746c6",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 72768528000,
+            "duration": 303408000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 72768528000,
+          "duration": 303408000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 51.565,
+          "end_s": 51.78,
+          "note_index": 5,
+          "original_note_index": 84
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            85
+          ],
+          "note_id": "75b7d48366484234",
+          "note": {
+            "uuid": "75b7d48366484234",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 73071936000,
+            "duration": 261072000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 73071936000,
+          "duration": 261072000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 51.78,
+          "end_s": 51.965,
+          "note_index": 6,
+          "original_note_index": 85
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            86
+          ],
+          "note_id": "103a42c570fb4465",
+          "note": {
+            "uuid": "103a42c570fb4465",
+            "musicalType": "singing",
+            "lyrics": "-",
+            "phonemes": "",
+            "accent": "",
+            "onset": 73333008000,
+            "duration": 578592000,
+            "pitch": 49,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 73333008000,
+          "duration": 578592000,
+          "pitch": 49,
+          "detune": 0,
+          "lyrics": "-",
+          "start_s": 51.965,
+          "end_s": 52.375,
+          "note_index": 7,
+          "original_note_index": 86
+        }
+      ]
+    },
+    {
+      "name": "first_tomorrow",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 9,
+          "column": 1,
+          "source": "Tomorrow",
+          "original_word_index": 65
+        },
+        {
+          "word_index": 1,
+          "line": 9,
+          "column": 10,
+          "source": "is",
+          "original_word_index": 66
+        },
+        {
+          "word_index": 2,
+          "line": 9,
+          "column": 13,
+          "source": "another",
+          "original_word_index": 67
+        },
+        {
+          "word_index": 3,
+          "line": 9,
+          "column": 21,
+          "source": "day",
+          "original_word_index": 68
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "t",
+              "end": 59.4925,
+              "label": "t",
+              "p": 0.000259,
+              "start": 59.4725
+            },
+            {
+              "char": "o",
+              "end": 59.5325,
+              "label": "o",
+              "p": 4.6e-05,
+              "start": 59.5125
+            },
+            {
+              "char": "m",
+              "end": 59.6325,
+              "label": "m",
+              "p": 0.000461,
+              "start": 59.6125
+            },
+            {
+              "char": "o",
+              "end": 59.9525,
+              "label": "o",
+              "p": 0.017163,
+              "start": 59.9325
+            },
+            {
+              "char": "r",
+              "end": 60.0125,
+              "label": "r",
+              "p": 0.056203,
+              "start": 59.9925
+            },
+            {
+              "char": "r",
+              "end": 60.0525,
+              "label": "r",
+              "p": 0.000421,
+              "start": 60.0325
+            },
+            {
+              "char": "o",
+              "end": 60.0725,
+              "label": "o",
+              "p": 1.1e-05,
+              "start": 60.0525
+            },
+            {
+              "char": "w",
+              "end": 60.0925,
+              "label": "w",
+              "p": 0.000148,
+              "start": 60.0725
+            }
+          ],
+          "column": 1,
+          "end": 60.0925,
+          "line": 9,
+          "normalized": "tomorrow",
+          "p": 0.009339,
+          "reason": "",
+          "source": "Tomorrow",
+          "start": 59.4725,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 65
+        },
+        {
+          "chars": [
+            {
+              "char": "i",
+              "end": 60.2325,
+              "label": "i",
+              "p": 0.990802,
+              "start": 60.2125
+            },
+            {
+              "char": "s",
+              "end": 60.3125,
+              "label": "s",
+              "p": 0.96316,
+              "start": 60.2725
+            }
+          ],
+          "column": 10,
+          "end": 60.3125,
+          "line": 9,
+          "normalized": "is",
+          "p": 0.976981,
+          "reason": "",
+          "source": "is",
+          "start": 60.2125,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 66
+        },
+        {
+          "chars": [
+            {
+              "char": "a",
+              "end": 60.4325,
+              "label": "a",
+              "p": 0.009741,
+              "start": 60.4125
+            },
+            {
+              "char": "n",
+              "end": 60.5525,
+              "label": "n",
+              "p": 0.385805,
+              "start": 60.5325
+            },
+            {
+              "char": "o",
+              "end": 60.7925,
+              "label": "o",
+              "p": 0.784069,
+              "start": 60.7725
+            },
+            {
+              "char": "t",
+              "end": 60.9525,
+              "label": "t",
+              "p": 0.120022,
+              "start": 60.9325
+            },
+            {
+              "char": "h",
+              "end": 60.9725,
+              "label": "h",
+              "p": 0.606211,
+              "start": 60.9525
+            },
+            {
+              "char": "e",
+              "end": 61.0925,
+              "label": "e",
+              "p": 0.387708,
+              "start": 61.0725
+            },
+            {
+              "char": "r",
+              "end": 61.1325,
+              "label": "r",
+              "p": 0.292978,
+              "start": 61.1125
+            }
+          ],
+          "column": 13,
+          "end": 61.1325,
+          "line": 9,
+          "normalized": "another",
+          "p": 0.369505,
+          "reason": "",
+          "source": "another",
+          "start": 60.4125,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 67
+        },
+        {
+          "chars": [
+            {
+              "char": "d",
+              "end": 61.2125,
+              "label": "d",
+              "p": 0.132466,
+              "start": 61.1925
+            },
+            {
+              "char": "a",
+              "end": 61.3725,
+              "label": "a",
+              "p": 0.409362,
+              "start": 61.3525
+            },
+            {
+              "char": "y",
+              "end": 61.5925,
+              "label": "y",
+              "p": 0.83107,
+              "start": 61.5725
+            }
+          ],
+          "column": 21,
+          "end": 61.5925,
+          "line": 9,
+          "normalized": "day",
+          "p": 0.457633,
+          "reason": "",
+          "source": "day",
+          "start": 61.1925,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 68
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            87
+          ],
+          "note_id": "19816051c043479a",
+          "note": {
+            "uuid": "19816051c043479a",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 84142800000,
+            "duration": 627984000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 84142800000,
+          "duration": 627984000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 59.625,
+          "end_s": 60.07,
+          "note_index": 0,
+          "original_note_index": 87
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            88
+          ],
+          "note_id": "2c4abc2aa0424087",
+          "note": {
+            "uuid": "2c4abc2aa0424087",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 84770784000,
+            "duration": 373968000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 84770784000,
+          "duration": 373968000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 60.07,
+          "end_s": 60.335,
+          "note_index": 1,
+          "original_note_index": 88
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            89
+          ],
+          "note_id": "09a6bf280ead42a9",
+          "note": {
+            "uuid": "09a6bf280ead42a9",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 85144752000,
+            "duration": 268128000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 85144752000,
+          "duration": 268128000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 60.335,
+          "end_s": 60.525,
+          "note_index": 2,
+          "original_note_index": 89
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            90
+          ],
+          "note_id": "47441a223ebf4600",
+          "note": {
+            "uuid": "47441a223ebf4600",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 85412880000,
+            "duration": 246960000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 85412880000,
+          "duration": 246960000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 60.525,
+          "end_s": 60.7,
+          "note_index": 3,
+          "original_note_index": 90
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            91
+          ],
+          "note_id": "0246cc016fea4902",
+          "note": {
+            "uuid": "0246cc016fea4902",
+            "musicalType": "singing",
+            "lyrics": "-",
+            "phonemes": "",
+            "accent": "",
+            "onset": 85659840000,
+            "duration": 472752000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 85659840000,
+          "duration": 472752000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "-",
+          "start_s": 60.7,
+          "end_s": 61.035,
+          "note_index": 4,
+          "original_note_index": 91
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            92
+          ],
+          "note_id": "6bc6fae0462a4cea",
+          "note": {
+            "uuid": "6bc6fae0462a4cea",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 86132592000,
+            "duration": 296352000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 86132592000,
+          "duration": 296352000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 61.035,
+          "end_s": 61.245,
+          "note_index": 5,
+          "original_note_index": 92
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            93
+          ],
+          "note_id": "77053b13b4034c90",
+          "note": {
+            "uuid": "77053b13b4034c90",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 86428944000,
+            "duration": 663264000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 86428944000,
+          "duration": 663264000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 61.245,
+          "end_s": 61.715,
+          "note_index": 6,
+          "original_note_index": 93
+        }
+      ]
+    },
+    {
+      "name": "repeated_tomorrow_another",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 17,
+          "column": 1,
+          "source": "Tomorrow",
+          "original_word_index": 125
+        },
+        {
+          "word_index": 1,
+          "line": 17,
+          "column": 10,
+          "source": "is",
+          "original_word_index": 126
+        },
+        {
+          "word_index": 2,
+          "line": 17,
+          "column": 13,
+          "source": "another",
+          "original_word_index": 127
+        },
+        {
+          "word_index": 3,
+          "line": 17,
+          "column": 21,
+          "source": "day",
+          "original_word_index": 128
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "t",
+              "end": 116.6525,
+              "label": "t",
+              "p": 0.332678,
+              "start": 116.6325
+            },
+            {
+              "char": "o",
+              "end": 116.7725,
+              "label": "o",
+              "p": 0.084093,
+              "start": 116.7525
+            },
+            {
+              "char": "m",
+              "end": 116.8125,
+              "label": "m",
+              "p": 0.254395,
+              "start": 116.7925
+            },
+            {
+              "char": "o",
+              "end": 116.8925,
+              "label": "o",
+              "p": 0.003343,
+              "start": 116.8725
+            },
+            {
+              "char": "r",
+              "end": 116.9325,
+              "label": "r",
+              "p": 0.001918,
+              "start": 116.9125
+            },
+            {
+              "char": "r",
+              "end": 116.9725,
+              "label": "r",
+              "p": 0.003484,
+              "start": 116.9525
+            },
+            {
+              "char": "o",
+              "end": 117.2725,
+              "label": "o",
+              "p": 0.711142,
+              "start": 117.2525
+            },
+            {
+              "char": "w",
+              "end": 117.3325,
+              "label": "w",
+              "p": 0.123662,
+              "start": 117.3125
+            }
+          ],
+          "column": 1,
+          "end": 117.3325,
+          "line": 17,
+          "normalized": "tomorrow",
+          "p": 0.189339,
+          "reason": "",
+          "source": "Tomorrow",
+          "start": 116.6325,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 125
+        },
+        {
+          "chars": [
+            {
+              "char": "i",
+              "end": 117.5525,
+              "label": "i",
+              "p": 0.987234,
+              "start": 117.5325
+            },
+            {
+              "char": "s",
+              "end": 117.6125,
+              "label": "s",
+              "p": 0.995292,
+              "start": 117.5925
+            }
+          ],
+          "column": 10,
+          "end": 117.6125,
+          "line": 17,
+          "normalized": "is",
+          "p": 0.991263,
+          "reason": "",
+          "source": "is",
+          "start": 117.5325,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 126
+        },
+        {
+          "chars": [
+            {
+              "char": "a",
+              "end": 117.7525,
+              "label": "a",
+              "p": 0.352026,
+              "start": 117.7325
+            },
+            {
+              "char": "n",
+              "end": 117.8325,
+              "label": "n",
+              "p": 0.279013,
+              "start": 117.8125
+            },
+            {
+              "char": "o",
+              "end": 118.1525,
+              "label": "o",
+              "p": 0.865403,
+              "start": 118.1325
+            },
+            {
+              "char": "t",
+              "end": 118.3325,
+              "label": "t",
+              "p": 0.279305,
+              "start": 118.3125
+            },
+            {
+              "char": "h",
+              "end": 118.5325,
+              "label": "h",
+              "p": 0.001035,
+              "start": 118.5125
+            },
+            {
+              "char": "e",
+              "end": 118.6925,
+              "label": "e",
+              "p": 0.488414,
+              "start": 118.6725
+            },
+            {
+              "char": "r",
+              "end": 118.8325,
+              "label": "r",
+              "p": 0.751148,
+              "start": 118.8125
+            }
+          ],
+          "column": 13,
+          "end": 118.8325,
+          "line": 17,
+          "normalized": "another",
+          "p": 0.430906,
+          "reason": "",
+          "source": "another",
+          "start": 117.7325,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 127
+        },
+        {
+          "chars": [
+            {
+              "char": "d",
+              "end": 119.0125,
+              "label": "d",
+              "p": 0.000116,
+              "start": 118.9925
+            },
+            {
+              "char": "a",
+              "end": 119.1725,
+              "label": "a",
+              "p": 0.819114,
+              "start": 119.1525
+            },
+            {
+              "char": "y",
+              "end": 119.6125,
+              "label": "y",
+              "p": 0.868575,
+              "start": 119.5925
+            }
+          ],
+          "column": 21,
+          "end": 119.6125,
+          "line": 17,
+          "normalized": "day",
+          "p": 0.562602,
+          "reason": "",
+          "source": "day",
+          "start": 118.9925,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 128
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            172
+          ],
+          "note_id": "416c2e2ed7364aa8",
+          "note": {
+            "uuid": "416c2e2ed7364aa8",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 164715264000,
+            "duration": 317520000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 164715264000,
+          "duration": 317520000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 116.72,
+          "end_s": 116.945,
+          "note_index": 0,
+          "original_note_index": 172
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            173
+          ],
+          "note_id": "bc9cd543e7a54ee3",
+          "note": {
+            "uuid": "bc9cd543e7a54ee3",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 165032784000,
+            "duration": 613872000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 165032784000,
+          "duration": 613872000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 116.945,
+          "end_s": 117.38,
+          "note_index": 1,
+          "original_note_index": 173
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            174
+          ],
+          "note_id": "908f6832e2ab4713",
+          "note": {
+            "uuid": "908f6832e2ab4713",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 165646656000,
+            "duration": 373968000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 165646656000,
+          "duration": 373968000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 117.38,
+          "end_s": 117.645,
+          "note_index": 2,
+          "original_note_index": 174
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            175
+          ],
+          "note_id": "bcf7c7e0f29642c8",
+          "note": {
+            "uuid": "bcf7c7e0f29642c8",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 166020624000,
+            "duration": 275184000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 166020624000,
+          "duration": 275184000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 117.645,
+          "end_s": 117.84,
+          "note_index": 3,
+          "original_note_index": 175
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            176
+          ],
+          "note_id": "6a65d718b6234847",
+          "note": {
+            "uuid": "6a65d718b6234847",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 166295808000,
+            "duration": 246960000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 166295808000,
+          "duration": 246960000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 117.84,
+          "end_s": 118.015,
+          "note_index": 4,
+          "original_note_index": 176
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            177
+          ],
+          "note_id": "5ef89f2185344b5d",
+          "note": {
+            "uuid": "5ef89f2185344b5d",
+            "musicalType": "singing",
+            "lyrics": "-",
+            "phonemes": "",
+            "accent": "",
+            "onset": 166542768000,
+            "duration": 465696000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 166542768000,
+          "duration": 465696000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "-",
+          "start_s": 118.015,
+          "end_s": 118.345,
+          "note_index": 5,
+          "original_note_index": 177
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            178
+          ],
+          "note_id": "894c5b68d7964c25",
+          "note": {
+            "uuid": "894c5b68d7964c25",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 167008464000,
+            "duration": 303408000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 167008464000,
+          "duration": 303408000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 118.345,
+          "end_s": 118.56,
+          "note_index": 6,
+          "original_note_index": 178
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            179
+          ],
+          "note_id": "93e037a48b4b4067",
+          "note": {
+            "uuid": "93e037a48b4b4067",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 167311872000,
+            "duration": 670320000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 167311872000,
+          "duration": 670320000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 118.56,
+          "end_s": 119.035,
+          "note_index": 7,
+          "original_note_index": 179
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            180
+          ],
+          "note_id": "95e2d13fb5374b20",
+          "note": {
+            "uuid": "95e2d13fb5374b20",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 167982192000,
+            "duration": 599760000,
+            "pitch": 53,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 167982192000,
+          "duration": 599760000,
+          "pitch": 53,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 119.035,
+          "end_s": 119.46,
+          "note_index": 8,
+          "original_note_index": 180
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            181
+          ],
+          "note_id": "0120cfa137984eb6",
+          "note": {
+            "uuid": "0120cfa137984eb6",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 168581952000,
+            "duration": 409248000,
+            "pitch": 53,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 168581952000,
+          "duration": 409248000,
+          "pitch": 53,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 119.46,
+          "end_s": 119.75,
+          "note_index": 9,
+          "original_note_index": 181
+        }
+      ]
+    },
+    {
+      "name": "away_chain_and_missing_word",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 18,
+          "column": 1,
+          "source": "And",
+          "original_word_index": 129
+        },
+        {
+          "word_index": 1,
+          "line": 18,
+          "column": 5,
+          "source": "you",
+          "original_word_index": 130
+        },
+        {
+          "word_index": 2,
+          "line": 18,
+          "column": 9,
+          "source": "won't",
+          "original_word_index": 131
+        },
+        {
+          "word_index": 3,
+          "line": 18,
+          "column": 15,
+          "source": "have",
+          "original_word_index": 132
+        },
+        {
+          "word_index": 4,
+          "line": 18,
+          "column": 20,
+          "source": "to",
+          "original_word_index": 133
+        },
+        {
+          "word_index": 5,
+          "line": 18,
+          "column": 23,
+          "source": "hide",
+          "original_word_index": 134
+        },
+        {
+          "word_index": 6,
+          "line": 18,
+          "column": 28,
+          "source": "away",
+          "original_word_index": 135
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "a",
+              "end": 120.4525,
+              "label": "a",
+              "p": 0.573598,
+              "start": 120.4325
+            },
+            {
+              "char": "n",
+              "end": 120.4725,
+              "label": "n",
+              "p": 0.601374,
+              "start": 120.4525
+            },
+            {
+              "char": "d",
+              "end": 120.4925,
+              "label": "d",
+              "p": 0.373106,
+              "start": 120.4725
+            }
+          ],
+          "column": 1,
+          "end": 120.4925,
+          "line": 18,
+          "normalized": "and",
+          "p": 0.516026,
+          "reason": "",
+          "source": "And",
+          "start": 120.4325,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 129
+        },
+        {
+          "chars": [
+            {
+              "char": "y",
+              "end": 120.5725,
+              "label": "y",
+              "p": 0.718479,
+              "start": 120.5525
+            },
+            {
+              "char": "o",
+              "end": 120.7125,
+              "label": "o",
+              "p": 0.840585,
+              "start": 120.6925
+            },
+            {
+              "char": "u",
+              "end": 120.7525,
+              "label": "u",
+              "p": 0.700824,
+              "start": 120.7125
+            }
+          ],
+          "column": 5,
+          "end": 120.7525,
+          "line": 18,
+          "normalized": "you",
+          "p": 0.753296,
+          "reason": "",
+          "source": "you",
+          "start": 120.5525,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 130
+        },
+        {
+          "chars": [
+            {
+              "char": "w",
+              "end": 120.8325,
+              "label": "w",
+              "p": 0.090781,
+              "start": 120.8125
+            },
+            {
+              "char": "o",
+              "end": 120.8725,
+              "label": "o",
+              "p": 0.04297,
+              "start": 120.8525
+            },
+            {
+              "char": "n",
+              "end": 120.9125,
+              "label": "n",
+              "p": 0.083669,
+              "start": 120.8925
+            },
+            {
+              "char": "'",
+              "end": 120.9525,
+              "label": "'",
+              "p": 0.007856,
+              "start": 120.9325
+            },
+            {
+              "char": "t",
+              "end": 120.9725,
+              "label": "t",
+              "p": 0.052266,
+              "start": 120.9525
+            }
+          ],
+          "column": 9,
+          "end": 120.9725,
+          "line": 18,
+          "normalized": "won't",
+          "p": 0.055508,
+          "reason": "",
+          "source": "won't",
+          "start": 120.8125,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 131
+        },
+        {
+          "chars": [
+            {
+              "char": "h",
+              "end": 121.0725,
+              "label": "h",
+              "p": 0.999838,
+              "start": 121.0525
+            },
+            {
+              "char": "a",
+              "end": 121.1125,
+              "label": "a",
+              "p": 0.999455,
+              "start": 121.0925
+            },
+            {
+              "char": "v",
+              "end": 121.1725,
+              "label": "v",
+              "p": 0.98145,
+              "start": 121.1525
+            },
+            {
+              "char": "e",
+              "end": 121.1925,
+              "label": "e",
+              "p": 0.966354,
+              "start": 121.1725
+            }
+          ],
+          "column": 15,
+          "end": 121.1925,
+          "line": 18,
+          "normalized": "have",
+          "p": 0.986774,
+          "reason": "",
+          "source": "have",
+          "start": 121.0525,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 132
+        },
+        {
+          "chars": [
+            {
+              "char": "t",
+              "end": 121.2725,
+              "label": "t",
+              "p": 0.999401,
+              "start": 121.2525
+            },
+            {
+              "char": "o",
+              "end": 121.3325,
+              "label": "o",
+              "p": 0.997607,
+              "start": 121.3125
+            }
+          ],
+          "column": 20,
+          "end": 121.3325,
+          "line": 18,
+          "normalized": "to",
+          "p": 0.998504,
+          "reason": "",
+          "source": "to",
+          "start": 121.2525,
+          "status": "AUTO",
+          "word_index": 4,
+          "original_word_index": 133
+        },
+        {
+          "chars": [
+            {
+              "char": "h",
+              "end": 121.4925,
+              "label": "h",
+              "p": 0.710863,
+              "start": 121.4725
+            },
+            {
+              "char": "i",
+              "end": 121.7925,
+              "label": "i",
+              "p": 0.990156,
+              "start": 121.7725
+            },
+            {
+              "char": "d",
+              "end": 121.8725,
+              "label": "d",
+              "p": 0.944624,
+              "start": 121.8525
+            },
+            {
+              "char": "e",
+              "end": 121.8925,
+              "label": "e",
+              "p": 0.933536,
+              "start": 121.8725
+            }
+          ],
+          "column": 23,
+          "end": 121.8925,
+          "line": 18,
+          "normalized": "hide",
+          "p": 0.894795,
+          "reason": "",
+          "source": "hide",
+          "start": 121.4725,
+          "status": "AUTO",
+          "word_index": 5,
+          "original_word_index": 134
+        },
+        {
+          "chars": [
+            {
+              "char": "a",
+              "end": 122.0525,
+              "label": "a",
+              "p": 0.962919,
+              "start": 122.0325
+            },
+            {
+              "char": "w",
+              "end": 122.1525,
+              "label": "w",
+              "p": 0.992609,
+              "start": 122.1325
+            },
+            {
+              "char": "a",
+              "end": 122.3725,
+              "label": "a",
+              "p": 0.886152,
+              "start": 122.3325
+            },
+            {
+              "char": "y",
+              "end": 123.3525,
+              "label": "y",
+              "p": 0.878344,
+              "start": 123.3125
+            }
+          ],
+          "column": 28,
+          "end": 123.3525,
+          "line": 18,
+          "normalized": "away",
+          "p": 0.930006,
+          "reason": "",
+          "source": "away",
+          "start": 122.0325,
+          "status": "AUTO",
+          "word_index": 6,
+          "original_word_index": 135
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            182
+          ],
+          "note_id": "8face51238ea49fa",
+          "note": {
+            "uuid": "8face51238ea49fa",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 169880256000,
+            "duration": 317520000,
+            "pitch": 44,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 169880256000,
+          "duration": 317520000,
+          "pitch": 44,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 120.38,
+          "end_s": 120.605,
+          "note_index": 0,
+          "original_note_index": 182
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            183
+          ],
+          "note_id": "6faf6b2e989e4d19",
+          "note": {
+            "uuid": "6faf6b2e989e4d19",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 170197776000,
+            "duration": 543312000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 170197776000,
+          "duration": 543312000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 120.605,
+          "end_s": 120.99,
+          "note_index": 1,
+          "original_note_index": 183
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            184
+          ],
+          "note_id": "ca28e1ac53bc4dd2",
+          "note": {
+            "uuid": "ca28e1ac53bc4dd2",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 170741088000,
+            "duration": 402192000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 170741088000,
+          "duration": 402192000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 120.99,
+          "end_s": 121.275,
+          "note_index": 2,
+          "original_note_index": 184
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            185
+          ],
+          "note_id": "ebd19f3b09c046ba",
+          "note": {
+            "uuid": "ebd19f3b09c046ba",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 171143280000,
+            "duration": 190512000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 171143280000,
+          "duration": 190512000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 121.275,
+          "end_s": 121.41,
+          "note_index": 3,
+          "original_note_index": 185
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            186
+          ],
+          "note_id": "4546810f48da4830",
+          "note": {
+            "uuid": "4546810f48da4830",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 171333792000,
+            "duration": 317520000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 171333792000,
+          "duration": 317520000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 121.41,
+          "end_s": 121.635,
+          "note_index": 4,
+          "original_note_index": 186
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            187
+          ],
+          "note_id": "dd30211f92ce4309",
+          "note": {
+            "uuid": "dd30211f92ce4309",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 171651312000,
+            "duration": 381024000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 171651312000,
+          "duration": 381024000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 121.635,
+          "end_s": 121.905,
+          "note_index": 5,
+          "original_note_index": 187
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            188
+          ],
+          "note_id": "a6df996b64c64844",
+          "note": {
+            "uuid": "a6df996b64c64844",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 172032336000,
+            "duration": 366912000,
+            "pitch": 58,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 172032336000,
+          "duration": 366912000,
+          "pitch": 58,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 121.905,
+          "end_s": 122.165,
+          "note_index": 6,
+          "original_note_index": 188
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            189
+          ],
+          "note_id": "3fb722e697504ea4",
+          "note": {
+            "uuid": "3fb722e697504ea4",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 172399248000,
+            "duration": 613872000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 172399248000,
+          "duration": 613872000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 122.165,
+          "end_s": 122.6,
+          "note_index": 7,
+          "original_note_index": 189
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            190
+          ],
+          "note_id": "44189615342b444b",
+          "note": {
+            "uuid": "44189615342b444b",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 173013120000,
+            "duration": 585648000,
+            "pitch": 52,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 173013120000,
+          "duration": 585648000,
+          "pitch": 52,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 122.6,
+          "end_s": 123.015,
+          "note_index": 8,
+          "original_note_index": 190
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            191
+          ],
+          "note_id": "b30ed947bd2944e8",
+          "note": {
+            "uuid": "b30ed947bd2944e8",
+            "musicalType": "singing",
+            "lyrics": "-",
+            "phonemes": "",
+            "accent": "",
+            "onset": 173598768000,
+            "duration": 684432000,
+            "pitch": 49,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 173598768000,
+          "duration": 684432000,
+          "pitch": 49,
+          "detune": 0,
+          "lyrics": "-",
+          "start_s": 123.015,
+          "end_s": 123.5,
+          "note_index": 9,
+          "original_note_index": 191
+        }
+      ]
+    },
+    {
+      "name": "outro_observation_outside_notes",
+      "words": [
+        {
+          "word_index": 0,
+          "line": 24,
+          "column": 31,
+          "source": "it's",
+          "original_word_index": 174
+        },
+        {
+          "word_index": 1,
+          "line": 24,
+          "column": 36,
+          "source": "time",
+          "original_word_index": 175
+        },
+        {
+          "word_index": 2,
+          "line": 24,
+          "column": 41,
+          "source": "to",
+          "original_word_index": 176
+        },
+        {
+          "word_index": 3,
+          "line": 24,
+          "column": 44,
+          "source": "run",
+          "original_word_index": 177
+        }
+      ],
+      "aligned_words": [
+        {
+          "chars": [
+            {
+              "char": "i",
+              "end": 144.0525,
+              "label": "i",
+              "p": 0.989627,
+              "start": 144.0325
+            },
+            {
+              "char": "t",
+              "end": 144.0925,
+              "label": "t",
+              "p": 0.977754,
+              "start": 144.0725
+            },
+            {
+              "char": "'",
+              "end": 144.1125,
+              "label": "'",
+              "p": 0.457355,
+              "start": 144.0925
+            },
+            {
+              "char": "s",
+              "end": 144.1525,
+              "label": "s",
+              "p": 0.993239,
+              "start": 144.1325
+            }
+          ],
+          "column": 31,
+          "end": 144.1525,
+          "line": 24,
+          "normalized": "it's",
+          "p": 0.854494,
+          "reason": "",
+          "source": "it's",
+          "start": 144.0325,
+          "status": "AUTO",
+          "word_index": 0,
+          "original_word_index": 174
+        },
+        {
+          "chars": [
+            {
+              "char": "t",
+              "end": 144.2325,
+              "label": "t",
+              "p": 0.99915,
+              "start": 144.2125
+            },
+            {
+              "char": "i",
+              "end": 144.5325,
+              "label": "i",
+              "p": 0.998561,
+              "start": 144.5125
+            },
+            {
+              "char": "m",
+              "end": 144.5725,
+              "label": "m",
+              "p": 0.998939,
+              "start": 144.5525
+            },
+            {
+              "char": "e",
+              "end": 144.6125,
+              "label": "e",
+              "p": 0.789644,
+              "start": 144.5725
+            }
+          ],
+          "column": 36,
+          "end": 144.6125,
+          "line": 24,
+          "normalized": "time",
+          "p": 0.946573,
+          "reason": "",
+          "source": "time",
+          "start": 144.2125,
+          "status": "AUTO",
+          "word_index": 1,
+          "original_word_index": 175
+        },
+        {
+          "chars": [
+            {
+              "char": "t",
+              "end": 144.6725,
+              "label": "t",
+              "p": 0.996405,
+              "start": 144.6525
+            },
+            {
+              "char": "o",
+              "end": 144.7925,
+              "label": "o",
+              "p": 0.992768,
+              "start": 144.7725
+            }
+          ],
+          "column": 41,
+          "end": 144.7925,
+          "line": 24,
+          "normalized": "to",
+          "p": 0.994587,
+          "reason": "",
+          "source": "to",
+          "start": 144.6525,
+          "status": "AUTO",
+          "word_index": 2,
+          "original_word_index": 176
+        },
+        {
+          "chars": [
+            {
+              "char": "r",
+              "end": 204.3525,
+              "label": "r",
+              "p": 0.006823,
+              "start": 204.3325
+            },
+            {
+              "char": "u",
+              "end": 204.4125,
+              "label": "u",
+              "p": 0.143569,
+              "start": 204.3925
+            },
+            {
+              "char": "n",
+              "end": 204.5125,
+              "label": "n",
+              "p": 0.144907,
+              "start": 204.4925
+            }
+          ],
+          "column": 44,
+          "end": 204.5125,
+          "line": 24,
+          "normalized": "run",
+          "p": 0.098433,
+          "reason": "",
+          "source": "run",
+          "start": 204.3325,
+          "status": "AUTO",
+          "word_index": 3,
+          "original_word_index": 177
+        }
+      ],
+      "notes": [
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            251
+          ],
+          "note_id": "8944a9d34e3e4dcb",
+          "note": {
+            "uuid": "8944a9d34e3e4dcb",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 203149296000,
+            "duration": 381024000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 203149296000,
+          "duration": 381024000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 143.955,
+          "end_s": 144.225,
+          "note_index": 0,
+          "original_note_index": 251
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            252
+          ],
+          "note_id": "8cb00ce3f0e549f3",
+          "note": {
+            "uuid": "8cb00ce3f0e549f3",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 203530320000,
+            "duration": 246960000,
+            "pitch": 56,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 203530320000,
+          "duration": 246960000,
+          "pitch": 56,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 144.225,
+          "end_s": 144.4,
+          "note_index": 1,
+          "original_note_index": 252
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            253
+          ],
+          "note_id": "d5b16468afc0424c",
+          "note": {
+            "uuid": "d5b16468afc0424c",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 203777280000,
+            "duration": 444528000,
+            "pitch": 54,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 203777280000,
+          "duration": 444528000,
+          "pitch": 54,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 144.4,
+          "end_s": 144.715,
+          "note_index": 2,
+          "original_note_index": 253
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            254
+          ],
+          "note_id": "a593bf7f274d444d",
+          "note": {
+            "uuid": "a593bf7f274d444d",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 204221808000,
+            "duration": 296352000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 204221808000,
+          "duration": 296352000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 144.715,
+          "end_s": 144.925,
+          "note_index": 3,
+          "original_note_index": 254
+        },
+        {
+          "locator": [
+            "library",
+            0,
+            "notes",
+            255
+          ],
+          "note_id": "3347d9aa636a42ca",
+          "note": {
+            "uuid": "3347d9aa636a42ca",
+            "musicalType": "singing",
+            "lyrics": "la",
+            "phonemes": "",
+            "accent": "",
+            "onset": 204518160000,
+            "duration": 557424000,
+            "pitch": 51,
+            "detune": 0,
+            "attributes": {
+              "muted": false,
+              "evenSyllableDuration": true
+            },
+            "takes": {
+              "activeTakeId": 0,
+              "takes": [
+                {
+                  "id": 0,
+                  "seedDuration": 0,
+                  "seedPitch": 0,
+                  "seedTimbre": 0,
+                  "liked": false
+                }
+              ]
+            }
+          },
+          "group_id": "a20e2630-0cef-4c38-abf1-e1ae42e8abf4",
+          "onset": 204518160000,
+          "duration": 557424000,
+          "pitch": 51,
+          "detune": 0,
+          "lyrics": "la",
+          "start_s": 144.925,
+          "end_s": 145.32,
+          "note_index": 4,
+          "original_note_index": 255
+        }
+      ]
+    }
+  ]
+}

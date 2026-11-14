@@ -1,0 +1,4339 @@
+[
+  {
+    "variant": "source",
+    "start": 0,
+    "end": 5.15,
+    "text": " Lately I've been, I've been losing sleep",
+    "chunks": [
+      {
+        "text": " Lately",
+        "timestamp": [
+          0.0,
+          1.16
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.16,
+          2.1
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.1,
+          2.46
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.46,
+          2.96
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.96,
+          3.14
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          3.14,
+          3.46
+        ]
+      },
+      {
+        "text": " sleep",
+        "timestamp": [
+          3.46,
+          3.88
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 8.3,
+    "end": 14.08,
+    "text": " be. But baby, I've been, I've been praying hard.",
+    "chunks": [
+      {
+        "text": " be.",
+        "timestamp": [
+          0.0,
+          0.44
+        ]
+      },
+      {
+        "text": " But",
+        "timestamp": [
+          0.44,
+          0.96
+        ]
+      },
+      {
+        "text": " baby,",
+        "timestamp": [
+          0.96,
+          1.8
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.8,
+          2.68
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.68,
+          3.06
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          3.06,
+          3.54
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          3.54,
+          3.74
+        ]
+      },
+      {
+        "text": " praying",
+        "timestamp": [
+          3.74,
+          4.04
+        ]
+      },
+      {
+        "text": " hard.",
+        "timestamp": [
+          4.04,
+          4.86
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 41.9,
+    "end": 44.58,
+    "text": " In my face is flashing signs",
+    "chunks": [
+      {
+        "text": " In",
+        "timestamp": [
+          0.0,
+          0.52
+        ]
+      },
+      {
+        "text": " my",
+        "timestamp": [
+          0.52,
+          0.74
+        ]
+      },
+      {
+        "text": " face",
+        "timestamp": [
+          0.74,
+          1.1
+        ]
+      },
+      {
+        "text": " is",
+        "timestamp": [
+          1.1,
+          1.28
+        ]
+      },
+      {
+        "text": " flashing",
+        "timestamp": [
+          1.28,
+          1.7
+        ]
+      },
+      {
+        "text": " signs",
+        "timestamp": [
+          1.7,
+          2.14
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 53.9,
+    "end": 56.65,
+    "text": " I",
+    "chunks": [
+      {
+        "text": " I",
+        "timestamp": [
+          0.0,
+          0.7
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 56.3,
+    "end": 61.95,
+    "text": " I feel something so right, but doing the wrong thing.",
+    "chunks": [
+      {
+        "text": " I",
+        "timestamp": [
+          0.0,
+          0.1
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          0.1,
+          0.46
+        ]
+      },
+      {
+        "text": " something",
+        "timestamp": [
+          0.46,
+          1.1
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          1.1,
+          1.38
+        ]
+      },
+      {
+        "text": " right,",
+        "timestamp": [
+          1.38,
+          2.24
+        ]
+      },
+      {
+        "text": " but",
+        "timestamp": [
+          2.24,
+          2.68
+        ]
+      },
+      {
+        "text": " doing",
+        "timestamp": [
+          2.68,
+          3.02
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          3.02,
+          3.34
+        ]
+      },
+      {
+        "text": " wrong",
+        "timestamp": [
+          3.34,
+          3.74
+        ]
+      },
+      {
+        "text": " thing.",
+        "timestamp": [
+          3.74,
+          4.34
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 61.65,
+    "end": 64.62,
+    "text": " And I say",
+    "chunks": [
+      {
+        "text": " And",
+        "timestamp": [
+          0.0,
+          0.74
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          0.74,
+          1.22
+        ]
+      },
+      {
+        "text": " say",
+        "timestamp": [
+          1.22,
+          2.9
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 62.0,
+    "end": 69.95,
+    "text": " And I feel something so wrong doing the right thing.",
+    "chunks": [
+      {
+        "text": " And",
+        "timestamp": [
+          0.0,
+          0.38
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          0.38,
+          0.78
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          0.78,
+          2.56
+        ]
+      },
+      {
+        "text": " something",
+        "timestamp": [
+          2.56,
+          3.2
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          3.2,
+          3.54
+        ]
+      },
+      {
+        "text": " wrong",
+        "timestamp": [
+          3.54,
+          4.28
+        ]
+      },
+      {
+        "text": " doing",
+        "timestamp": [
+          4.28,
+          5.02
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          5.02,
+          5.48
+        ]
+      },
+      {
+        "text": " right",
+        "timestamp": [
+          5.48,
+          5.8
+        ]
+      },
+      {
+        "text": " thing.",
+        "timestamp": [
+          5.8,
+          6.46
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 70.0,
+    "end": 74.0,
+    "text": " i couldn't lie",
+    "chunks": [
+      {
+        "text": " i",
+        "timestamp": [
+          3.98,
+          3.98
+        ]
+      },
+      {
+        "text": " couldn't",
+        "timestamp": [
+          3.98,
+          3.98
+        ]
+      },
+      {
+        "text": " lie",
+        "timestamp": [
+          3.98,
+          3.98
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 77.7,
+    "end": 81.6,
+    "text": " I've been losing sleep",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.26
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.26,
+          1.72
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          1.72,
+          2.5
+        ]
+      },
+      {
+        "text": " sleep",
+        "timestamp": [
+          2.5,
+          3.1
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 93.05,
+    "end": 97.46,
+    "text": " I've been through some pain",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.84
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.84,
+          2.24
+        ]
+      },
+      {
+        "text": " through",
+        "timestamp": [
+          2.24,
+          2.88
+        ]
+      },
+      {
+        "text": " some",
+        "timestamp": [
+          2.88,
+          3.18
+        ]
+      },
+      {
+        "text": " pain",
+        "timestamp": [
+          3.18,
+          3.64
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 100.7,
+    "end": 105.42,
+    "text": " But baby, I've been, I've been praying hard",
+    "chunks": [
+      {
+        "text": " But",
+        "timestamp": [
+          0.0,
+          0.52
+        ]
+      },
+      {
+        "text": " baby,",
+        "timestamp": [
+          0.52,
+          1.34
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.34,
+          2.04
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.04,
+          2.48
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.48,
+          2.9
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.9,
+          3.06
+        ]
+      },
+      {
+        "text": " praying",
+        "timestamp": [
+          3.06,
+          3.36
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.36,
+          3.78
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 110.5,
+    "end": 114.32,
+    "text": " Hey.",
+    "chunks": [
+      {
+        "text": " Hey.",
+        "timestamp": [
+          0.0,
+          1.02
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 132.9,
+    "end": 140.65,
+    "text": " And I feel something so wrong We're doing the right thing",
+    "chunks": [
+      {
+        "text": " And",
+        "timestamp": [
+          0.0,
+          0.32
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          0.32,
+          0.7
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          0.7,
+          2.48
+        ]
+      },
+      {
+        "text": " something",
+        "timestamp": [
+          2.48,
+          3.14
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          3.14,
+          3.44
+        ]
+      },
+      {
+        "text": " wrong",
+        "timestamp": [
+          3.44,
+          4.2
+        ]
+      },
+      {
+        "text": " We're",
+        "timestamp": [
+          4.2,
+          4.88
+        ]
+      },
+      {
+        "text": " doing",
+        "timestamp": [
+          4.88,
+          5.18
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          5.18,
+          5.42
+        ]
+      },
+      {
+        "text": " right",
+        "timestamp": [
+          5.42,
+          5.74
+        ]
+      },
+      {
+        "text": " thing",
+        "timestamp": [
+          5.74,
+          6.26
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 140.65,
+    "end": 145.0,
+    "text": " I could lie, could lie, could lie",
+    "chunks": [
+      {
+        "text": " I",
+        "timestamp": [
+          0.0,
+          0.42
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          0.42,
+          0.7
+        ]
+      },
+      {
+        "text": " lie,",
+        "timestamp": [
+          0.7,
+          1.36
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          1.36,
+          1.68
+        ]
+      },
+      {
+        "text": " lie,",
+        "timestamp": [
+          1.68,
+          2.36
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          2.36,
+          2.66
+        ]
+      },
+      {
+        "text": " lie",
+        "timestamp": [
+          2.66,
+          3.18
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 148.6,
+    "end": 152.5,
+    "text": " I've been losing sleep.",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.24
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.24,
+          1.72
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          1.72,
+          2.4
+        ]
+      },
+      {
+        "text": " sleep.",
+        "timestamp": [
+          2.4,
+          3.1
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 152.45,
+    "end": 156.08,
+    "text": " Dreaming about the things that we could be",
+    "chunks": [
+      {
+        "text": " Dreaming",
+        "timestamp": [
+          0.0,
+          0.68
+        ]
+      },
+      {
+        "text": " about",
+        "timestamp": [
+          0.68,
+          1.04
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          1.04,
+          1.36
+        ]
+      },
+      {
+        "text": " things",
+        "timestamp": [
+          1.36,
+          1.72
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          1.72,
+          1.9
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          1.9,
+          2.12
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          2.12,
+          2.64
+        ]
+      },
+      {
+        "text": " be",
+        "timestamp": [
+          2.64,
+          3.18
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 155.7,
+    "end": 160.3,
+    "text": " Baby, I've been, I've been praying hard.",
+    "chunks": [
+      {
+        "text": " Baby,",
+        "timestamp": [
+          0.0,
+          1.1
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.1,
+          2.1
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.1,
+          2.48
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.48,
+          2.94
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.94,
+          3.12
+        ]
+      },
+      {
+        "text": " praying",
+        "timestamp": [
+          3.12,
+          3.42
+        ]
+      },
+      {
+        "text": " hard.",
+        "timestamp": [
+          3.42,
+          4.0
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 163.68,
+    "end": 168.22,
+    "text": " They lay up and up and through the street",
+    "chunks": [
+      {
+        "text": " They",
+        "timestamp": [
+          0.0,
+          0.74
+        ]
+      },
+      {
+        "text": " lay",
+        "timestamp": [
+          0.74,
+          1.24
+        ]
+      },
+      {
+        "text": " up",
+        "timestamp": [
+          1.24,
+          1.9
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          1.9,
+          2.4
+        ]
+      },
+      {
+        "text": " up",
+        "timestamp": [
+          2.4,
+          2.78
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          2.78,
+          3.02
+        ]
+      },
+      {
+        "text": " through",
+        "timestamp": [
+          3.02,
+          3.26
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          3.26,
+          3.28
+        ]
+      },
+      {
+        "text": " street",
+        "timestamp": [
+          3.28,
+          3.76
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 171.5,
+    "end": 176.06,
+    "text": " But baby, I've been never trained hard",
+    "chunks": [
+      {
+        "text": " But",
+        "timestamp": [
+          0.0,
+          0.56
+        ]
+      },
+      {
+        "text": " baby,",
+        "timestamp": [
+          0.56,
+          1.42
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.42,
+          1.9
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.9,
+          2.46
+        ]
+      },
+      {
+        "text": " never",
+        "timestamp": [
+          2.46,
+          2.92
+        ]
+      },
+      {
+        "text": " trained",
+        "timestamp": [
+          2.92,
+          3.36
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.36,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 177.9,
+    "end": 181.7,
+    "text": " We'll be counting stars",
+    "chunks": [
+      {
+        "text": " We'll",
+        "timestamp": [
+          0.0,
+          0.38
+        ]
+      },
+      {
+        "text": " be",
+        "timestamp": [
+          0.38,
+          0.56
+        ]
+      },
+      {
+        "text": " counting",
+        "timestamp": [
+          0.56,
+          1.66
+        ]
+      },
+      {
+        "text": " stars",
+        "timestamp": [
+          1.66,
+          2.24
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 181.4,
+    "end": 184.0,
+    "text": " Oh",
+    "chunks": [
+      {
+        "text": " Oh",
+        "timestamp": [
+          0.0,
+          1.6
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 183.65,
+    "end": 188.0,
+    "text": " Take that money, watch it burn Sink in the river, the lessons I learned",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.46
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.46,
+          0.7
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.7,
+          1.1
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          1.1,
+          1.32
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.32,
+          1.6
+        ]
+      },
+      {
+        "text": " burn",
+        "timestamp": [
+          1.6,
+          1.86
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.86,
+          2.5
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.5,
+          2.68
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.68,
+          2.8
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.8,
+          3.08
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          3.08,
+          3.12
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          3.12,
+          3.44
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.44,
+          3.64
+        ]
+      },
+      {
+        "text": " learned",
+        "timestamp": [
+          3.64,
+          3.98
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 187.75,
+    "end": 191.9,
+    "text": " Take that money, watch it burn. Sink in the river, the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.28
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.28,
+          0.54
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.54,
+          0.92
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.92,
+          1.12
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.12,
+          1.44
+        ]
+      },
+      {
+        "text": " burn.",
+        "timestamp": [
+          1.44,
+          1.82
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.82,
+          2.24
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.24,
+          2.5
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.5,
+          2.6
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.6,
+          2.86
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.86,
+          2.96
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.96,
+          3.26
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.26,
+          3.5
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.5,
+          3.94
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 191.75,
+    "end": 195.83,
+    "text": " Take that money, watch it burn. Sink in the river, the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.26
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.26,
+          0.52
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.52,
+          0.86
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.86,
+          1.12
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.12,
+          1.38
+        ]
+      },
+      {
+        "text": " burn.",
+        "timestamp": [
+          1.38,
+          1.8
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.8,
+          2.16
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.16,
+          2.42
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.42,
+          2.54
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.54,
+          2.78
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.78,
+          2.86
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.86,
+          3.22
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.22,
+          3.44
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.44,
+          3.84
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 195.62,
+    "end": 199.89,
+    "text": " Take out money, watch it burn. Sink in the river, the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.34
+        ]
+      },
+      {
+        "text": " out",
+        "timestamp": [
+          0.34,
+          0.58
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.58,
+          0.94
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.94,
+          1.16
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.16,
+          1.44
+        ]
+      },
+      {
+        "text": " burn.",
+        "timestamp": [
+          1.44,
+          1.88
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.88,
+          2.24
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.24,
+          2.48
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.48,
+          2.58
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.58,
+          2.86
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.86,
+          2.98
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.98,
+          3.26
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.26,
+          3.48
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.48,
+          3.96
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 199.45,
+    "end": 205.4,
+    "text": " Everything that kills me.",
+    "chunks": [
+      {
+        "text": " Everything",
+        "timestamp": [
+          0.0,
+          1.06
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          1.06,
+          1.98
+        ]
+      },
+      {
+        "text": " kills",
+        "timestamp": [
+          1.98,
+          2.6
+        ]
+      },
+      {
+        "text": " me.",
+        "timestamp": [
+          2.6,
+          3.6
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 206.6,
+    "end": 210.52,
+    "text": " I've been losing sleep.",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.42
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.42,
+          1.72
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          1.72,
+          2.44
+        ]
+      },
+      {
+        "text": " sleep.",
+        "timestamp": [
+          2.44,
+          3.14
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 210.5,
+    "end": 213.97,
+    "text": " Dreaming about the things that we could be.",
+    "chunks": [
+      {
+        "text": " Dreaming",
+        "timestamp": [
+          0.0,
+          0.64
+        ]
+      },
+      {
+        "text": " about",
+        "timestamp": [
+          0.64,
+          1.02
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          1.02,
+          1.34
+        ]
+      },
+      {
+        "text": " things",
+        "timestamp": [
+          1.34,
+          1.72
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          1.72,
+          1.88
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          1.88,
+          2.12
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          2.12,
+          2.6
+        ]
+      },
+      {
+        "text": " be.",
+        "timestamp": [
+          2.6,
+          3.2
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 213.8,
+    "end": 218.28,
+    "text": " Baby, I've been, I've been playing hard",
+    "chunks": [
+      {
+        "text": " Baby,",
+        "timestamp": [
+          0.0,
+          1.04
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.04,
+          2.04
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.04,
+          2.42
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.42,
+          2.88
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.88,
+          3.04
+        ]
+      },
+      {
+        "text": " playing",
+        "timestamp": [
+          3.04,
+          3.36
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.36,
+          3.84
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 221.8,
+    "end": 226.33,
+    "text": " I've been, I've been through some things.",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.94
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          1.94,
+          2.3
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.3,
+          2.74
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.74,
+          2.96
+        ]
+      },
+      {
+        "text": " through",
+        "timestamp": [
+          2.96,
+          3.1
+        ]
+      },
+      {
+        "text": " some",
+        "timestamp": [
+          3.1,
+          3.3
+        ]
+      },
+      {
+        "text": " things.",
+        "timestamp": [
+          3.3,
+          3.7
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 229.5,
+    "end": 234.1,
+    "text": " Baby, I'm in love with clean hearts",
+    "chunks": [
+      {
+        "text": " Baby,",
+        "timestamp": [
+          0.0,
+          1.1
+        ]
+      },
+      {
+        "text": " I'm",
+        "timestamp": [
+          1.1,
+          2.04
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.04,
+          2.4
+        ]
+      },
+      {
+        "text": " love",
+        "timestamp": [
+          2.4,
+          2.9
+        ]
+      },
+      {
+        "text": " with",
+        "timestamp": [
+          2.9,
+          3.1
+        ]
+      },
+      {
+        "text": " clean",
+        "timestamp": [
+          3.1,
+          3.4
+        ]
+      },
+      {
+        "text": " hearts",
+        "timestamp": [
+          3.4,
+          3.9
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 236.05,
+    "end": 238.25,
+    "text": " We'll be, we'll be closer",
+    "chunks": [
+      {
+        "text": " We'll",
+        "timestamp": [
+          0.0,
+          0.26
+        ]
+      },
+      {
+        "text": " be,",
+        "timestamp": [
+          0.26,
+          0.54
+        ]
+      },
+      {
+        "text": " we'll",
+        "timestamp": [
+          0.54,
+          1.24
+        ]
+      },
+      {
+        "text": " be",
+        "timestamp": [
+          1.24,
+          1.46
+        ]
+      },
+      {
+        "text": " closer",
+        "timestamp": [
+          1.46,
+          1.82
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 237.98,
+    "end": 242.01,
+    "text": " Thank you.",
+    "chunks": [
+      {
+        "text": " Thank",
+        "timestamp": [
+          4.0,
+          4.0
+        ]
+      },
+      {
+        "text": " you.",
+        "timestamp": [
+          4.0,
+          4.0
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 241.92,
+    "end": 245.93,
+    "text": " Ain't got money watching birds Ain't looking for the lessons I learned",
+    "chunks": [
+      {
+        "text": " Ain't",
+        "timestamp": [
+          0.0,
+          0.32
+        ]
+      },
+      {
+        "text": " got",
+        "timestamp": [
+          0.32,
+          0.46
+        ]
+      },
+      {
+        "text": " money",
+        "timestamp": [
+          0.46,
+          0.74
+        ]
+      },
+      {
+        "text": " watching",
+        "timestamp": [
+          0.74,
+          1.08
+        ]
+      },
+      {
+        "text": " birds",
+        "timestamp": [
+          1.08,
+          1.7
+        ]
+      },
+      {
+        "text": " Ain't",
+        "timestamp": [
+          1.7,
+          2.2
+        ]
+      },
+      {
+        "text": " looking",
+        "timestamp": [
+          2.2,
+          2.44
+        ]
+      },
+      {
+        "text": " for",
+        "timestamp": [
+          2.44,
+          2.8
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.8,
+          2.88
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.88,
+          3.18
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.18,
+          3.44
+        ]
+      },
+      {
+        "text": " learned",
+        "timestamp": [
+          3.44,
+          3.76
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 245.91,
+    "end": 249.9,
+    "text": " Take that money, watch it burn. Singing in the river, the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.18
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.18,
+          0.44
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.44,
+          0.8
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.8,
+          1.04
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.04,
+          1.32
+        ]
+      },
+      {
+        "text": " burn.",
+        "timestamp": [
+          1.32,
+          1.74
+        ]
+      },
+      {
+        "text": " Singing",
+        "timestamp": [
+          1.74,
+          2.2
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.2,
+          2.46
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.46,
+          2.52
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.52,
+          2.72
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.72,
+          2.82
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.82,
+          3.12
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.12,
+          3.38
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.38,
+          3.78
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 249.86,
+    "end": 254.13,
+    "text": " Take that money and watch it burn Sink in the river, the lessons I've learned",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.16
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.16,
+          0.42
+        ]
+      },
+      {
+        "text": " money",
+        "timestamp": [
+          0.42,
+          0.7
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          0.7,
+          0.86
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.86,
+          1.06
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.06,
+          1.3
+        ]
+      },
+      {
+        "text": " burn",
+        "timestamp": [
+          1.3,
+          1.58
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.58,
+          2.16
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.16,
+          2.34
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.34,
+          2.48
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.48,
+          2.68
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.68,
+          2.8
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.8,
+          3.1
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          3.1,
+          3.42
+        ]
+      },
+      {
+        "text": " learned",
+        "timestamp": [
+          3.42,
+          3.68
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "source",
+    "start": 254.15,
+    "end": 262.56,
+    "text": " Thank you.",
+    "chunks": [
+      {
+        "text": " Thank",
+        "timestamp": [
+          8.22,
+          8.38
+        ]
+      },
+      {
+        "text": " you.",
+        "timestamp": [
+          8.38,
+          8.38
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 0,
+    "end": 5.15,
+    "text": " Lately I've been, I've been losing sleep",
+    "chunks": [
+      {
+        "text": " Lately",
+        "timestamp": [
+          0.0,
+          1.18
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.18,
+          2.06
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.06,
+          2.48
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.48,
+          2.96
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.96,
+          3.14
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          3.14,
+          3.46
+        ]
+      },
+      {
+        "text": " sleep",
+        "timestamp": [
+          3.46,
+          3.86
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 8.3,
+    "end": 14.08,
+    "text": " But baby, I've been, I've been praying hard.",
+    "chunks": [
+      {
+        "text": " But",
+        "timestamp": [
+          0.0,
+          0.84
+        ]
+      },
+      {
+        "text": " baby,",
+        "timestamp": [
+          0.84,
+          1.8
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.8,
+          2.68
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.68,
+          3.06
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          3.06,
+          3.52
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          3.52,
+          3.74
+        ]
+      },
+      {
+        "text": " praying",
+        "timestamp": [
+          3.74,
+          4.04
+        ]
+      },
+      {
+        "text": " hard.",
+        "timestamp": [
+          4.04,
+          4.86
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 41.9,
+    "end": 44.58,
+    "text": " In my face is flashing signs",
+    "chunks": [
+      {
+        "text": " In",
+        "timestamp": [
+          0.0,
+          0.5
+        ]
+      },
+      {
+        "text": " my",
+        "timestamp": [
+          0.5,
+          0.72
+        ]
+      },
+      {
+        "text": " face",
+        "timestamp": [
+          0.72,
+          1.1
+        ]
+      },
+      {
+        "text": " is",
+        "timestamp": [
+          1.1,
+          1.3
+        ]
+      },
+      {
+        "text": " flashing",
+        "timestamp": [
+          1.3,
+          1.7
+        ]
+      },
+      {
+        "text": " signs",
+        "timestamp": [
+          1.7,
+          2.14
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 53.9,
+    "end": 56.65,
+    "text": " I",
+    "chunks": [
+      {
+        "text": " I",
+        "timestamp": [
+          0.0,
+          0.62
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 56.3,
+    "end": 61.95,
+    "text": " You feel something so right But doing the wrong thing",
+    "chunks": [
+      {
+        "text": " You",
+        "timestamp": [
+          0.0,
+          0.24
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          0.24,
+          0.64
+        ]
+      },
+      {
+        "text": " something",
+        "timestamp": [
+          0.64,
+          1.12
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          1.12,
+          1.4
+        ]
+      },
+      {
+        "text": " right",
+        "timestamp": [
+          1.4,
+          2.06
+        ]
+      },
+      {
+        "text": " But",
+        "timestamp": [
+          2.06,
+          2.68
+        ]
+      },
+      {
+        "text": " doing",
+        "timestamp": [
+          2.68,
+          3.02
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          3.02,
+          3.32
+        ]
+      },
+      {
+        "text": " wrong",
+        "timestamp": [
+          3.32,
+          3.7
+        ]
+      },
+      {
+        "text": " thing",
+        "timestamp": [
+          3.7,
+          4.2
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 61.65,
+    "end": 64.62,
+    "text": " And I feel",
+    "chunks": [
+      {
+        "text": " And",
+        "timestamp": [
+          0.0,
+          0.7
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          0.7,
+          1.14
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          1.14,
+          2.82
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 62.0,
+    "end": 69.95,
+    "text": " And I feel something so wrong doing the right thing.",
+    "chunks": [
+      {
+        "text": " And",
+        "timestamp": [
+          0.0,
+          0.4
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          0.4,
+          0.78
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          0.78,
+          2.52
+        ]
+      },
+      {
+        "text": " something",
+        "timestamp": [
+          2.52,
+          3.2
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          3.2,
+          3.54
+        ]
+      },
+      {
+        "text": " wrong",
+        "timestamp": [
+          3.54,
+          4.28
+        ]
+      },
+      {
+        "text": " doing",
+        "timestamp": [
+          4.28,
+          5.02
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          5.02,
+          5.48
+        ]
+      },
+      {
+        "text": " right",
+        "timestamp": [
+          5.48,
+          5.78
+        ]
+      },
+      {
+        "text": " thing.",
+        "timestamp": [
+          5.78,
+          6.44
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 70.0,
+    "end": 74.0,
+    "text": " i could lie",
+    "chunks": [
+      {
+        "text": " i",
+        "timestamp": [
+          3.98,
+          3.98
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          3.98,
+          3.98
+        ]
+      },
+      {
+        "text": " lie",
+        "timestamp": [
+          3.98,
+          3.98
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 77.7,
+    "end": 81.6,
+    "text": " I've been losing sleep",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.28
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.28,
+          1.72
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          1.72,
+          2.5
+        ]
+      },
+      {
+        "text": " sleep",
+        "timestamp": [
+          2.5,
+          3.1
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 93.05,
+    "end": 97.46,
+    "text": " Lately I've been, I've been through some sleep",
+    "chunks": [
+      {
+        "text": " Lately",
+        "timestamp": [
+          0.0,
+          0.96
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          0.96,
+          1.8
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          1.8,
+          2.24
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.24,
+          2.62
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.62,
+          2.84
+        ]
+      },
+      {
+        "text": " through",
+        "timestamp": [
+          2.84,
+          3.02
+        ]
+      },
+      {
+        "text": " some",
+        "timestamp": [
+          3.02,
+          3.2
+        ]
+      },
+      {
+        "text": " sleep",
+        "timestamp": [
+          3.2,
+          3.62
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 100.7,
+    "end": 105.42,
+    "text": " But baby, I've been, I've been praying hard.",
+    "chunks": [
+      {
+        "text": " But",
+        "timestamp": [
+          0.0,
+          0.52
+        ]
+      },
+      {
+        "text": " baby,",
+        "timestamp": [
+          0.52,
+          1.32
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.32,
+          2.02
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.02,
+          2.48
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.48,
+          2.9
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.9,
+          3.06
+        ]
+      },
+      {
+        "text": " praying",
+        "timestamp": [
+          3.06,
+          3.36
+        ]
+      },
+      {
+        "text": " hard.",
+        "timestamp": [
+          3.36,
+          4.08
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 110.5,
+    "end": 114.32,
+    "text": " Hey.",
+    "chunks": [
+      {
+        "text": " Hey.",
+        "timestamp": [
+          0.0,
+          1.04
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 132.9,
+    "end": 140.65,
+    "text": " And I feel something so wrong We're doing the right thing",
+    "chunks": [
+      {
+        "text": " And",
+        "timestamp": [
+          0.0,
+          0.32
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          0.32,
+          0.7
+        ]
+      },
+      {
+        "text": " feel",
+        "timestamp": [
+          0.7,
+          2.4
+        ]
+      },
+      {
+        "text": " something",
+        "timestamp": [
+          2.4,
+          3.14
+        ]
+      },
+      {
+        "text": " so",
+        "timestamp": [
+          3.14,
+          3.44
+        ]
+      },
+      {
+        "text": " wrong",
+        "timestamp": [
+          3.44,
+          4.18
+        ]
+      },
+      {
+        "text": " We're",
+        "timestamp": [
+          4.18,
+          4.86
+        ]
+      },
+      {
+        "text": " doing",
+        "timestamp": [
+          4.86,
+          5.14
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          5.14,
+          5.42
+        ]
+      },
+      {
+        "text": " right",
+        "timestamp": [
+          5.42,
+          5.74
+        ]
+      },
+      {
+        "text": " thing",
+        "timestamp": [
+          5.74,
+          6.3
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 140.65,
+    "end": 145.0,
+    "text": " I could lie, I could lie, I could lie",
+    "chunks": [
+      {
+        "text": " I",
+        "timestamp": [
+          0.0,
+          0.4
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          0.4,
+          0.7
+        ]
+      },
+      {
+        "text": " lie,",
+        "timestamp": [
+          0.7,
+          1.34
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          1.34,
+          1.58
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          1.58,
+          1.74
+        ]
+      },
+      {
+        "text": " lie,",
+        "timestamp": [
+          1.74,
+          2.34
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          2.34,
+          2.52
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          2.52,
+          2.7
+        ]
+      },
+      {
+        "text": " lie",
+        "timestamp": [
+          2.7,
+          3.16
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 148.6,
+    "end": 152.5,
+    "text": " I've been losing sleep.",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.24
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.24,
+          1.68
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          1.68,
+          2.4
+        ]
+      },
+      {
+        "text": " sleep.",
+        "timestamp": [
+          2.4,
+          3.1
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 152.45,
+    "end": 156.08,
+    "text": " Dreaming about the things that we could be.",
+    "chunks": [
+      {
+        "text": " Dreaming",
+        "timestamp": [
+          0.0,
+          0.68
+        ]
+      },
+      {
+        "text": " about",
+        "timestamp": [
+          0.68,
+          1.04
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          1.04,
+          1.36
+        ]
+      },
+      {
+        "text": " things",
+        "timestamp": [
+          1.36,
+          1.72
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          1.72,
+          1.9
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          1.9,
+          2.12
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          2.12,
+          2.64
+        ]
+      },
+      {
+        "text": " be.",
+        "timestamp": [
+          2.64,
+          3.24
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 155.7,
+    "end": 160.3,
+    "text": " Baby, I've been, I've been playing hard",
+    "chunks": [
+      {
+        "text": " Baby,",
+        "timestamp": [
+          0.0,
+          1.1
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.1,
+          2.1
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.1,
+          2.46
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.46,
+          2.94
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.94,
+          3.12
+        ]
+      },
+      {
+        "text": " playing",
+        "timestamp": [
+          3.12,
+          3.42
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.42,
+          3.88
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 163.68,
+    "end": 168.22,
+    "text": " They lay up and up and do the sleep.",
+    "chunks": [
+      {
+        "text": " They",
+        "timestamp": [
+          0.0,
+          0.72
+        ]
+      },
+      {
+        "text": " lay",
+        "timestamp": [
+          0.72,
+          1.24
+        ]
+      },
+      {
+        "text": " up",
+        "timestamp": [
+          1.24,
+          1.96
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          1.96,
+          2.42
+        ]
+      },
+      {
+        "text": " up",
+        "timestamp": [
+          2.42,
+          2.78
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          2.78,
+          3.06
+        ]
+      },
+      {
+        "text": " do",
+        "timestamp": [
+          3.06,
+          3.24
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          3.24,
+          3.3
+        ]
+      },
+      {
+        "text": " sleep.",
+        "timestamp": [
+          3.3,
+          3.74
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 171.5,
+    "end": 176.06,
+    "text": " But baby, I've been never trained hard",
+    "chunks": [
+      {
+        "text": " But",
+        "timestamp": [
+          0.0,
+          0.54
+        ]
+      },
+      {
+        "text": " baby,",
+        "timestamp": [
+          0.54,
+          1.32
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.32,
+          2.04
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.04,
+          2.36
+        ]
+      },
+      {
+        "text": " never",
+        "timestamp": [
+          2.36,
+          2.92
+        ]
+      },
+      {
+        "text": " trained",
+        "timestamp": [
+          2.92,
+          3.36
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.36,
+          3.82
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 177.9,
+    "end": 181.7,
+    "text": " We'll be counting stars",
+    "chunks": [
+      {
+        "text": " We'll",
+        "timestamp": [
+          0.0,
+          0.38
+        ]
+      },
+      {
+        "text": " be",
+        "timestamp": [
+          0.38,
+          0.56
+        ]
+      },
+      {
+        "text": " counting",
+        "timestamp": [
+          0.56,
+          1.62
+        ]
+      },
+      {
+        "text": " stars",
+        "timestamp": [
+          1.62,
+          2.28
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 181.4,
+    "end": 184.0,
+    "text": " Oh",
+    "chunks": [
+      {
+        "text": " Oh",
+        "timestamp": [
+          0.0,
+          1.6
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 183.65,
+    "end": 188.0,
+    "text": " Take that money, watch it burn Sink in the river, the lessons I learned",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.46
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.46,
+          0.7
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.7,
+          1.1
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          1.1,
+          1.32
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.32,
+          1.6
+        ]
+      },
+      {
+        "text": " burn",
+        "timestamp": [
+          1.6,
+          1.86
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.86,
+          2.46
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.46,
+          2.68
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.68,
+          2.82
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.82,
+          3.04
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          3.04,
+          3.12
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          3.12,
+          3.42
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.42,
+          3.64
+        ]
+      },
+      {
+        "text": " learned",
+        "timestamp": [
+          3.64,
+          3.98
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 187.75,
+    "end": 191.9,
+    "text": " Take out money, watch it burn Sing in the river the lessons I learned",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.3
+        ]
+      },
+      {
+        "text": " out",
+        "timestamp": [
+          0.3,
+          0.56
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.56,
+          0.94
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.94,
+          1.16
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.16,
+          1.44
+        ]
+      },
+      {
+        "text": " burn",
+        "timestamp": [
+          1.44,
+          1.72
+        ]
+      },
+      {
+        "text": " Sing",
+        "timestamp": [
+          1.72,
+          2.08
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.08,
+          2.48
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.48,
+          2.62
+        ]
+      },
+      {
+        "text": " river",
+        "timestamp": [
+          2.62,
+          2.82
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.82,
+          2.94
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.94,
+          3.26
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.26,
+          3.5
+        ]
+      },
+      {
+        "text": " learned",
+        "timestamp": [
+          3.5,
+          3.82
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 191.75,
+    "end": 195.83,
+    "text": " Take that money, watch it burn, sing in the river the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.26
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.26,
+          0.5
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.5,
+          0.88
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.88,
+          1.14
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.14,
+          1.38
+        ]
+      },
+      {
+        "text": " burn,",
+        "timestamp": [
+          1.38,
+          1.78
+        ]
+      },
+      {
+        "text": " sing",
+        "timestamp": [
+          1.78,
+          2.04
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.04,
+          2.4
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.4,
+          2.54
+        ]
+      },
+      {
+        "text": " river",
+        "timestamp": [
+          2.54,
+          2.76
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.76,
+          2.88
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.88,
+          3.2
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.2,
+          3.42
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.42,
+          3.82
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 195.62,
+    "end": 199.89,
+    "text": " Take that money, watch it burn, Sink in the river, the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.34
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.34,
+          0.54
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.54,
+          0.94
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.94,
+          1.2
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.2,
+          1.46
+        ]
+      },
+      {
+        "text": " burn,",
+        "timestamp": [
+          1.46,
+          1.84
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.84,
+          2.26
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.26,
+          2.5
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.5,
+          2.6
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.6,
+          2.86
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.86,
+          2.98
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.98,
+          3.28
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.28,
+          3.5
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.5,
+          4.0
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 199.45,
+    "end": 205.4,
+    "text": " Everything that kills me.",
+    "chunks": [
+      {
+        "text": " Everything",
+        "timestamp": [
+          0.0,
+          1.06
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          1.06,
+          1.98
+        ]
+      },
+      {
+        "text": " kills",
+        "timestamp": [
+          1.98,
+          2.6
+        ]
+      },
+      {
+        "text": " me.",
+        "timestamp": [
+          2.6,
+          3.48
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 206.6,
+    "end": 210.52,
+    "text": " I've been losing sleep.",
+    "chunks": [
+      {
+        "text": " I've",
+        "timestamp": [
+          0.0,
+          1.42
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          1.42,
+          1.68
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          1.68,
+          2.46
+        ]
+      },
+      {
+        "text": " sleep.",
+        "timestamp": [
+          2.46,
+          3.14
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 210.5,
+    "end": 213.97,
+    "text": " Dreaming about the things that we could be.",
+    "chunks": [
+      {
+        "text": " Dreaming",
+        "timestamp": [
+          0.0,
+          0.66
+        ]
+      },
+      {
+        "text": " about",
+        "timestamp": [
+          0.66,
+          1.04
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          1.04,
+          1.34
+        ]
+      },
+      {
+        "text": " things",
+        "timestamp": [
+          1.34,
+          1.72
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          1.72,
+          1.9
+        ]
+      },
+      {
+        "text": " we",
+        "timestamp": [
+          1.9,
+          2.12
+        ]
+      },
+      {
+        "text": " could",
+        "timestamp": [
+          2.12,
+          2.62
+        ]
+      },
+      {
+        "text": " be.",
+        "timestamp": [
+          2.62,
+          3.22
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 213.8,
+    "end": 218.28,
+    "text": " Baby, I've been, I've been playing hard",
+    "chunks": [
+      {
+        "text": " Baby,",
+        "timestamp": [
+          0.0,
+          1.0
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.0,
+          2.02
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          2.02,
+          2.42
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.42,
+          2.88
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.88,
+          3.04
+        ]
+      },
+      {
+        "text": " playing",
+        "timestamp": [
+          3.04,
+          3.36
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.36,
+          3.84
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 221.8,
+    "end": 226.33,
+    "text": " Lately I've been, I've been losing sleep.",
+    "chunks": [
+      {
+        "text": " Lately",
+        "timestamp": [
+          0.0,
+          1.08
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.08,
+          1.94
+        ]
+      },
+      {
+        "text": " been,",
+        "timestamp": [
+          1.94,
+          2.32
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          2.32,
+          2.72
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.72,
+          2.9
+        ]
+      },
+      {
+        "text": " losing",
+        "timestamp": [
+          2.9,
+          3.2
+        ]
+      },
+      {
+        "text": " sleep.",
+        "timestamp": [
+          3.2,
+          3.74
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 229.5,
+    "end": 234.1,
+    "text": " Baby, I've been lovin' plain hard",
+    "chunks": [
+      {
+        "text": " Baby,",
+        "timestamp": [
+          0.0,
+          1.08
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          1.08,
+          2.04
+        ]
+      },
+      {
+        "text": " been",
+        "timestamp": [
+          2.04,
+          2.46
+        ]
+      },
+      {
+        "text": " lovin'",
+        "timestamp": [
+          2.46,
+          3.08
+        ]
+      },
+      {
+        "text": " plain",
+        "timestamp": [
+          3.08,
+          3.36
+        ]
+      },
+      {
+        "text": " hard",
+        "timestamp": [
+          3.36,
+          3.84
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 236.05,
+    "end": 238.25,
+    "text": " We'll be, we'll be counseling.",
+    "chunks": [
+      {
+        "text": " We'll",
+        "timestamp": [
+          0.0,
+          0.28
+        ]
+      },
+      {
+        "text": " be,",
+        "timestamp": [
+          0.28,
+          0.56
+        ]
+      },
+      {
+        "text": " we'll",
+        "timestamp": [
+          0.56,
+          1.24
+        ]
+      },
+      {
+        "text": " be",
+        "timestamp": [
+          1.24,
+          1.32
+        ]
+      },
+      {
+        "text": " counseling.",
+        "timestamp": [
+          1.32,
+          1.88
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 237.98,
+    "end": 242.01,
+    "text": " I'm sorry.",
+    "chunks": [
+      {
+        "text": " I'm",
+        "timestamp": [
+          4.0,
+          4.0
+        ]
+      },
+      {
+        "text": " sorry.",
+        "timestamp": [
+          4.0,
+          4.0
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 241.92,
+    "end": 245.93,
+    "text": " State government watching birds. Thinking of the lessons I learned.",
+    "chunks": [
+      {
+        "text": " State",
+        "timestamp": [
+          0.0,
+          0.24
+        ]
+      },
+      {
+        "text": " government",
+        "timestamp": [
+          0.24,
+          0.6
+        ]
+      },
+      {
+        "text": " watching",
+        "timestamp": [
+          0.6,
+          1.22
+        ]
+      },
+      {
+        "text": " birds.",
+        "timestamp": [
+          1.22,
+          1.86
+        ]
+      },
+      {
+        "text": " Thinking",
+        "timestamp": [
+          1.86,
+          2.32
+        ]
+      },
+      {
+        "text": " of",
+        "timestamp": [
+          2.32,
+          2.48
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.48,
+          2.76
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.76,
+          3.14
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.14,
+          3.44
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.44,
+          3.86
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 245.91,
+    "end": 249.9,
+    "text": " Take that money, watch it burn. Singing the rhythm, the lessons I learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.14
+        ]
+      },
+      {
+        "text": " that",
+        "timestamp": [
+          0.14,
+          0.42
+        ]
+      },
+      {
+        "text": " money,",
+        "timestamp": [
+          0.42,
+          0.8
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.8,
+          1.04
+        ]
+      },
+      {
+        "text": " it",
+        "timestamp": [
+          1.04,
+          1.32
+        ]
+      },
+      {
+        "text": " burn.",
+        "timestamp": [
+          1.32,
+          1.76
+        ]
+      },
+      {
+        "text": " Singing",
+        "timestamp": [
+          1.76,
+          2.18
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.18,
+          2.5
+        ]
+      },
+      {
+        "text": " rhythm,",
+        "timestamp": [
+          2.5,
+          2.76
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.76,
+          2.86
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.86,
+          3.12
+        ]
+      },
+      {
+        "text": " I",
+        "timestamp": [
+          3.12,
+          3.38
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.38,
+          3.8
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 249.86,
+    "end": 254.13,
+    "text": " Take out my damn watch and burn. Sink in the river, the lessons I've learned.",
+    "chunks": [
+      {
+        "text": " Take",
+        "timestamp": [
+          0.0,
+          0.14
+        ]
+      },
+      {
+        "text": " out",
+        "timestamp": [
+          0.14,
+          0.44
+        ]
+      },
+      {
+        "text": " my",
+        "timestamp": [
+          0.44,
+          0.56
+        ]
+      },
+      {
+        "text": " damn",
+        "timestamp": [
+          0.56,
+          0.84
+        ]
+      },
+      {
+        "text": " watch",
+        "timestamp": [
+          0.84,
+          1.12
+        ]
+      },
+      {
+        "text": " and",
+        "timestamp": [
+          1.12,
+          1.3
+        ]
+      },
+      {
+        "text": " burn.",
+        "timestamp": [
+          1.3,
+          1.72
+        ]
+      },
+      {
+        "text": " Sink",
+        "timestamp": [
+          1.72,
+          2.12
+        ]
+      },
+      {
+        "text": " in",
+        "timestamp": [
+          2.12,
+          2.36
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.36,
+          2.46
+        ]
+      },
+      {
+        "text": " river,",
+        "timestamp": [
+          2.46,
+          2.66
+        ]
+      },
+      {
+        "text": " the",
+        "timestamp": [
+          2.66,
+          2.78
+        ]
+      },
+      {
+        "text": " lessons",
+        "timestamp": [
+          2.78,
+          3.1
+        ]
+      },
+      {
+        "text": " I've",
+        "timestamp": [
+          3.1,
+          3.44
+        ]
+      },
+      {
+        "text": " learned.",
+        "timestamp": [
+          3.44,
+          3.94
+        ]
+      }
+    ]
+  },
+  {
+    "variant": "reference",
+    "start": 254.15,
+    "end": 262.56,
+    "text": " you",
+    "chunks": [
+      {
+        "text": " you",
+        "timestamp": [
+          8.24,
+          8.24
+        ]
+      }
+    ]
+  }
+]

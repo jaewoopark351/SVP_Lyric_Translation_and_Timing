@@ -1,0 +1,17 @@
+# Project-local Python environment and bytecode
+.venv/
+__pycache__/
+*.py[cod]
+
+# Local GUI state, preview/cache files, and verification artifacts
+work/gradio/
+work/gradio_cache/
+work/gui-validation/
+work/uploads/
+work/models/
+
+# Generated first-pass results, installation caches, and local experiment logs
+/work/counting_stars/first_pass/
+/work/model-upgrade/
+/work/lyrics-placement-validation/
+/work/heavy-model-validation/
