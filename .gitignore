@@ -3,12 +3,28 @@
 __pycache__/
 *.py[cod]
 
+# Python tooling caches and coverage reports
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Machine-local environment variables; keep the shared example trackable
+.env
+.env.*
+!.env.example
+
+# Generated exports (existing tracked files remain tracked)
+/outputs/
+
 # Local GUI state, preview/cache files, and verification artifacts
-work/gradio/
-work/gradio_cache/
-work/gui-validation/
-work/uploads/
-work/models/
+/work/gradio/
+/work/gradio_cache/
+/work/gui-validation/
+/work/uploads/
+/work/models/
 
 # Generated first-pass results, installation caches, and local experiment logs
 /work/counting_stars/first_pass/
