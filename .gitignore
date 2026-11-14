@@ -16,18 +16,60 @@ htmlcov/
 .env.*
 !.env.example
 
-# Generated exports (existing tracked files remain tracked)
-/outputs/
+# Generated GUI exports.
+# Keep only deliberately curated examples under outputs/examples/.
+# Already tracked historical outputs are not removed by .gitignore.
+/outputs/*
+!/outputs/examples/
+!/outputs/examples/**
 
-# Local GUI state, preview/cache files, and verification artifacts
+# Local GUI state, uploads, previews, and model caches
 /work/gradio/
 /work/gradio_cache/
 /work/gui-validation/
 /work/uploads/
 /work/models/
 
+# Regenerable acoustic-analysis data; keep the Python analysis scripts
+/work/acoustic/*.json
+/work/acoustic/*.npy
+/work/acoustic/*.npz
+
+# Regenerable pitch-analysis tables; keep the Python analysis scripts
+/work/pitch/*.csv
+
 # Generated first-pass results, installation caches, and local experiment logs
 /work/counting_stars/first_pass/
 /work/model-upgrade/
 /work/lyrics-placement-validation/
 /work/heavy-model-validation/
+/work/**/*.log
+/work/**/*.log.*
+/work/**/*.jsonl
+
+# Local audio inputs and recordings (add intentionally shared fixtures with -f)
+*.wav
+*.flac
+*.mp3
+*.m4a
+*.ogg
+*.opus
+*.aac
+
+# Model weights and exported inference engines
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.gguf
+pytorch_model*.bin
+model*.bin
+
+# Temporary files and OS metadata
+*.tmp
+*.temp
+*.bak
+*~
+.DS_Store
+Thumbs.db
